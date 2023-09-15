@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="300" height="250"/>
   <div id="badges">
 
   <a href="www.linkedin.com/in/jaycelab">
@@ -17,7 +17,7 @@
 
 ### :man_technologist: About Me :
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.tenor.com/HHUXcAkEO84AAAAd/programming-software-developer.gif" width="400" height="300"/>
   </div>
 Aspring Full-Stack & Cloud Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in the US
   
