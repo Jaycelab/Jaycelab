@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="300" height="300"/>
+  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="325" height="300"/>
   <div id="badges">
 
   <a href="www.linkedin.com/in/jaycelab">
