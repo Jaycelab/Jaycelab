@@ -57,7 +57,7 @@ Aspring Full-Stack & Cloud Developer <img src="https://media.giphy.com/media/WUl
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaycelab&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Jayce GitHub stats](https://github-readme-stats.vercel.app/api?username=jaycelab&show_icons=true&theme=dark&background=000000)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaycelab&layout=donut&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
-[![Jayce's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaycelab&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Jayce's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaycelab)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
