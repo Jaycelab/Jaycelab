@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="300" height="250"/>
+  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="300" height="300"/>
   <div id="badges">
 
   <a href="www.linkedin.com/in/jaycelab">
@@ -53,7 +53,7 @@ Aspring Full-Stack & Cloud Developer <img src="https://media.giphy.com/media/WUl
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaycelab&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Jayce GitHub stats](https://github-readme-stats.vercel.app/api?username=jaycelab&show_icons=true&theme=dark&background=000000)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaycelab&layout=donut&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
-[![Jayce's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaycelab)](https://github.com/anuraghazra/github-readme-stats)
+[![Jayce's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaycelab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
