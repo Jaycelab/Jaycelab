@@ -12,7 +12,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=Jaylceab&style=flat-square&color=blue" alt=""/>
 
 ---
 
@@ -27,9 +26,6 @@ Aspring Full-Stack & Cloud Developer <img src="https://media.giphy.com/media/WUl
 - :seedling: -
 
 - :zap: I-
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jaycelab-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/jaycelab)
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -63,4 +59,6 @@ Aspring Full-Stack & Cloud Developer <img src="https://media.giphy.com/media/WUl
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jaycelab-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/jaycelab)
+<img src="https://komarev.com/ghpvc/?username=Jaylceab&style=flat-square&color=blue" alt=""/>
 </div>
