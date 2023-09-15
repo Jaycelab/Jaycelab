@@ -21,12 +21,15 @@
   </div>
 Aspring Full-Stack & Cloud Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in the US
   
-- :telescope: -
+:telescope: 
 
-- :seedling: -
+:seedling: 
 
-- :zap: I-
+:zap: 
+
+:mailbox:Let's Connect [![Linkedin Badge](https://img.shields.io/badge/-Jaycelab-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/jaycelab)  
 ---
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -46,19 +49,14 @@ Aspring Full-Stack & Cloud Developer <img src="https://media.giphy.com/media/WUl
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
----
-
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaycelab&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Jayce GitHub stats](https://github-readme-stats.vercel.app/api?username=jaycelab&show_icons=true&theme=dark&background=000000)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaycelab&layout=donut&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 [![Jayce's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaycelab)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jaycelab-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/jaycelab)
 <img src="https://komarev.com/ghpvc/?username=Jaylceab&style=flat-square&color=blue" alt=""/>
 </div>
