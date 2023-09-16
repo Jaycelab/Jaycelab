@@ -58,6 +58,6 @@ Aspring Full-Stack & Cloud Developer <img src="https://media.giphy.com/media/WUl
 <!-- BLOG-POST-LIST:END -->
 
 
-## :mailbox:Let's Connect [![Linkedin Badge](https://img.shields.io/badge/-Jaycelab-blue?style=round&logo=Linkedin&logoColor=white)](www.linkedin.com/in/jaycelab)
+## :mailbox:Let's Connect [![Linkedin Badge](https://img.shields.io/badge/-Jaycelab-blue?style=round&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jaycelab)
 <img src="https://komarev.com/ghpvc/?username=Jaycelab&style=flat-square&color=blue" alt="" width="130" height="25"/>
 </div>
