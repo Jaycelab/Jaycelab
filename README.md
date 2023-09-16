@@ -15,10 +15,7 @@
 
 ---
 
-### :man_technologist: Hello World
-<div align="center">
-  <img src="https://media.tenor.com/HHUXcAkEO84AAAAd/programming-software-developer.gif" width="400" height="300"/>
-  </div>
+# :man_technologist: Hello World
 Aspring Full-Stack & Cloud Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
 :telescope: 
@@ -27,10 +24,8 @@ Aspring Full-Stack & Cloud Developer <img src="https://media.giphy.com/media/WUl
 
 :zap: 
 
-:mailbox:Let's Connect [![Linkedin Badge](https://img.shields.io/badge/-Jaycelab-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/jaycelab)  
----
+## :hammer_and_wrench: Languages and Tools :
 
-### :hammer_and_wrench: Languages and Tools :
 <div>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -49,7 +44,8 @@ Aspring Full-Stack & Cloud Developer <img src="https://media.giphy.com/media/WUl
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-###  🖥️ Stats 
+
+## 🖥️ Stats 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaycelab&theme=dark&background=000000)](https://git.io/streak-stats)
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=jaycelab&show_icons=true&theme=dark&background=000000)
@@ -60,5 +56,8 @@ Aspring Full-Stack & Cloud Developer <img src="https://media.giphy.com/media/WUl
 <!--### :writing_hand: Blog Posts : TD: updated feed api-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-<img src="https://komarev.com/ghpvc/?username=Jaylceab&style=flat-square&color=blue" alt=""/>
+
+
+## :mailbox:Let's Connect [![Linkedin Badge](https://img.shields.io/badge/-Jaycelab-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/jaycelab)
+<img src="https://komarev.com/ghpvc/?username=Jaylceab&style=flat-square&color=blue" alt="" width="130" height="25"/>
 </div>
