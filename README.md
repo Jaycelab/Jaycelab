@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="325" height="300"/>
   <div id="badges">
 
-  <a href="www.linkedin.com/in/jaycelab">
+  <a href="https://www.linkedin.com/in/jaycelab">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="www.youtube.com/jaycelab">
