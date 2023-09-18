@@ -1,15 +1,15 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="325" height="300"/>
+  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="325" height="300 "/>
   <div id="badges">
 
 
   <a href="https://www.linkedin.com/in/jaycelab">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="www.youtube.com/jaycelab">
+  <a href="https://www.youtube.com/jaycelab">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="www.twitter.com/jaycelab">
+  <a href="https://www.twitter.com/jaycelab">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -46,9 +46,9 @@ Aspring Full-Stack & Cloud Developer <img src="https://media.giphy.com/media/WUl
 </div>
 
 
-## 🖥️ Stats 
+## 🖥️ My Stats 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaycelab&theme=dark&background=000000)](https://github.com/Jaycelab?tab=overview&from=2023-09-01&to=2023-09-17)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaycelab&theme=dark&background=000000)](https://github.com/Jaycelab/Path)
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=jaycelab&show_icons=true&theme=dark&background=000000)](https://github.com/Jaycelab/Path)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaycelab&layout=donut&theme=dark&background=000000)](https://github.com/Jaycelab/Path)
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaycelab&layout=compact&theme=dark&background=000000)](https://wakatime.com/@jaycelab)
