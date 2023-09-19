@@ -52,7 +52,8 @@ Aspring Full-Stack & Cloud Developer <img src="https://media.giphy.com/media/WUl
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=jaycelab&show_icons=true&theme=dark&background=000000)](https://github.com/Jaycelab/Path)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaycelab&layout=donut&theme=dark&background=000000)](https://github.com/Jaycelab/Path)
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaycelab&layout=compact&theme=dark&background=000000)](https://wakatime.com/@jaycelab)
-<a href="https://typingstats.com/profile/jaycelab&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=jaycelab" border="0" alt="TypeRacer.com scorecard for user jaycelab"/></a>  
+<a href="https://typingstats.com/profile/jaycelab&ref=badge" target="_top">
+<img src="https://data.typeracer.com/misc/badge?user=jaycelab" border="0" alt="TypeRacer.com scorecard for user jaycelab"/></a>  
 <!--### :writing_hand: Blog Posts : TD: updated feed api-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
