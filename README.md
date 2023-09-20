@@ -46,7 +46,8 @@ Aspring Full-Stack & Cloud Developer <img src="https://media.giphy.com/media/WUl
   
 </div>
 
-
+<div>
+  
 ## 🖥️ My Stats 
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaycelab&theme=dark&background=000000)](https://github.com/Jaycelab/Path)
@@ -56,6 +57,7 @@ Aspring Full-Stack & Cloud Developer <img src="https://media.giphy.com/media/WUl
   <a href="https://typingstats.com/profile/jaycelab&ref=badge" target="_top">
     <img src="https://data.typeracer.com/misc/badge?user=jaycelab" border="0" width="125" height="250"/>
   </a>  
+</div>  
 <!--### :writing_hand: Blog Posts : TD: updated feed api-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
