@@ -14,7 +14,6 @@
   </a>
 </div>
 
----
 
 # :man_technologist: Hello World
 Aspring Full-Stack & Cloud Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -50,10 +49,10 @@ Aspring Full-Stack & Cloud Developer <img src="https://media.giphy.com/media/WUl
   
 ## 🖥️ My Stats 
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaycelab&theme=dark&background=000000)](https://github.com/Jaycelab/Path)
-  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=jaycelab&show_icons=true&theme=dark&background=000000)](https://github.com/Jaycelab/Path)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaycelab&layout=donut&theme=dark&background=000000)](https://github.com/Jaycelab/Path)
-  [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaycelab&layout=compact&theme=dark&background=000000)](https://wakatime.com/@jaycelab)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaycelab&theme=dark&background=000000&hide_border=true)](https://github.com/Jaycelab/Path)
+  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=jaycelab&show_icons=true&theme=dark&background=000000&hide_border=true)](https://github.com/Jaycelab/Path)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaycelab&layout=donut&theme=dark&background=000000&hide_border=true)](https://github.com/Jaycelab/Path)
+  [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaycelab&layout=compact&theme=dark&background=000000&hide_border=true)](https://wakatime.com/@jaycelab)
   <a href="https://typingstats.com/profile/jaycelab&ref=badge" target="_top">
     <img src="https://data.typeracer.com/misc/badge?user=jaycelab" border="0" width="125" height="250"/>
   </a>  
