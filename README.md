@@ -24,7 +24,7 @@ Aspring Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 :zap: 
 
-## :hammer_and_wrench: Languages and Tools:
+## :hammer_and_wrench: Languages and Tools
 
 <div>
 
