@@ -56,7 +56,7 @@ Aspring Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
   
-## 🖥️ My Stats:
+### 🖥️ My Stats:
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaycelab&theme=dark&background=000000&hide_border=true)](https://github.com/Jaycelab/Path)
   [![My Github Stats](https://github-readme-stats.vercel.app/api?username=jaycelab&show_icons=true&theme=dark&background=000000&hide_border=true)](https://github.com/Jaycelab/Path)
@@ -71,6 +71,6 @@ Aspring Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:END -->
 
 
-## 📬 Let's Connect! [![Linkedin Badge](https://img.shields.io/badge/-Jaycelab-blue?style=round&logo=Linkedin&logoColor=white)](mailto:jayxalvarado@gmail.com)
+### 📬 Let's Connect! [![Linkedin Badge](https://img.shields.io/badge/-Jaycelab-blue?style=round&logo=Linkedin&logoColor=white)](mailto:jayxalvarado@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=Jaycelab&style=flat-square&color=blue" alt="" width="130" height="25"/>
 </div>
