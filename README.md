@@ -16,7 +16,7 @@
 
 
 # :man_technologist: Hello World!
-### Aspring Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### Aspiring Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ##### :telescope: Web development utilizing front-end libraries
 
