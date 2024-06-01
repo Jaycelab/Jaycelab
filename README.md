@@ -20,9 +20,9 @@
 
 ##### :telescope: Web development utilizing front-end libraries
 
-:seedling: 
-  
-:zap: 
+##### :seedling: Backend development proficiency with a prime focus on MERN stack
+
+##### :zap: Passion in learning new fields including blockchain, AI, algorithim trading and game development
 <br>
 
 ### :hammer_and_wrench: Languages and Tools
@@ -55,6 +55,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript UI" alt="Typescript UI" width="30" height="30"/>&nbsp;
   <img src="https://img.icons8.com/nolan/64/nextjs.png" title="Next" alt="Next" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostGreSQL" alt="PostGreSQL" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/oauth/oauth-original.svg" title="OAuth" alt="OAuth" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidty" alt="Solidty" width="30" height="30"/>&nbsp;
 
