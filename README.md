@@ -77,7 +77,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaycelab&layout=donut&theme=dark&background=000000&hide_border=true)](https://github.com/Jaycelab/Path)
   [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaycelab&layout=compact&theme=dark&background=000000&hide_border=true)](https://wakatime.com/@jaycelab)
   <a href="https://typingstats.com/profile/jaycelab&ref=badge" target="_top">
-    <img src="https://data.typeracer.com/misc/badge?user=jaycelab" border="0" width="125" height="250"/>
+    <img src="https://data.typeracer.com/misc/badge?user=jaycelab" border="0" theme="dark" width="125" height="250"  />
   </a>  
 </div>  
 
@@ -92,11 +92,11 @@
 <!--1st Row-->
 <div width="100%" align="center">
   <a align="center" href="https://github.com/Jaycelab/Fur-City-Adoption-Express" title="Pet Adoption">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&repo=Fur-City-Adoption-Express&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&repo=Fur-City-Adoption-Express&theme=dark&icon_color=FFFFFF&background=000000&hide_border=true">
   </a>
     &nbsp;&nbsp;&nbsp;
   <a align="center" href="https://github.com/Jaycelab/X-MERN-Clone" title="X Clone">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&repo=X-MERN-Clone&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&repo=X-MERN-Clone&theme=dark&icon_color=FFFFFF&background=000000&hide_border=true">
   </a>
 </div>
 
@@ -105,11 +105,11 @@
 <!--Second Row-->
 <div width="100%" align="center">
   <a align="center" href="https://github.com/Jaycelab/Food-MERN-App-FE" title="Food App FE">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&repo=Food-MERN-App-FE&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&repo=Food-MERN-App-FE&theme=dark&icon_color=FFFFFFbackground=000000&hide_border=true">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a align="center" href="https://github.com/Jaycelab/Food-MERN-App-BE" title="Food App BE">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&repo=Food-MERN-App-BE&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&repo=Food-MERN-App-BE&theme=dark&icon_color=FFFFFF&background=000000&hide_border=true">
   </a>
 </div>
 
