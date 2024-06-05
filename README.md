@@ -13,10 +13,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<br>
 
-
-# :man_technologist: Hello World!
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Aspiring Full-Stack Developer 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2200&pause=300&color=F7F7F7&center=true&random=false&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hello+World!;%F0%9F%96%90%EF%B8%8F+The+names+Jason+(not+json);%E2%98%95+And+I+am+an;%F0%9F%AA%84++Aspiring+Full-Stack+Developer!)](https://git.io/typing-svg)
 
 ##### :telescope: Web development utilizing front-end libraries
 
