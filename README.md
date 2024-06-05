@@ -114,7 +114,7 @@
 </div>
 
 <h4 align="center">
-<a href="https://github.com/Jaycelab?tab=repositories" title="Show More" width="130" height="25" >🔎 Show More 🔍</a>
+<a href="https://github.com/Jaycelab?tab=repositories" title="Show More" width="130" height="25" >🔎 Show More</a>
 
 <br/>
 <br/>
