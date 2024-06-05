@@ -80,10 +80,44 @@
     <img src="https://data.typeracer.com/misc/badge?user=jaycelab" border="0" width="125" height="250"/>
   </a>  
 </div>  
+
 <!--### :writing_hand: Blog Posts : TD: updated feed api-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+<!--Current Repo-->
+<h3 align="center">🥅&nbsp;&nbsp;C U R R E N T &nbsp; P R O J E C T S&nbsp;&nbsp;🥅</h3>
+
+<br> 
+
+<div width="100%" align="center">
+  <a align="center" href="https://github.com/Jaycelab/Fur-City-Adoption-Express" title="Pet Adoption">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&repo=Fur-City-Adoption-Express&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a align="center" href="https://github.com/Jaycelab/X-MERN-Clone" title="X Clone">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&repo=X-MERN-Clone&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
+  </a>
+</div>
+
+<br/>
+
+<div width="100%" align="center">
+  <a align="center" href="https://github.com/Jaycelab/Food-MERN-App-FE" title="Food App FE">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&repo=Food-MERN-App-FE&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a align="center" href="https://github.com/Jaycelab/Food-MERN-App-BE" title="Food App BE">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&repo=Food-MERN-App-BE&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
+  </a>
+</div>
+
+<h4 align="center">
+<a href="https://github.com/Jaycelab?tab=repositories" title="Show More" width="130" height="25" >🔎 Show More 🔍</a>
+
+<br/>
+<br/>
+<br/>
 
 ### 📬 Let's connect! [![Linkedin Badge](https://img.shields.io/badge/-Connect-blue?style=round&logo=Linkedin&logoColor=white)](mailto:jayxalvarado@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=Jaycelab&style=flat-square&color=blue" alt="" width="130" height="25"/>
