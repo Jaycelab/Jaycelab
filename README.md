@@ -21,7 +21,7 @@
 
 ##### :seedling: Backend development proficiency with a prime focus on MERN stack
 
-##### :zap: Passion in learning new fields including blockchain, AI, algorithim trading and game development
+##### :zap: Passion in learning new fields including blockchain, AI, algorithmic trading and game development
 <br>
 
 ### :hammer_and_wrench: Languages and Tools
