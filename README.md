@@ -15,7 +15,7 @@
 </div>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2500&pause=300&color=F7F7F7&background=000000&center=true&random=false&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hello+World!;%F0%9F%96%90%EF%B8%8F+The+names+Jason+(%F0%9F%9A%ABnot+json);%E2%98%95+And+I+am+an;%F0%9F%AA%84++Aspiring+Full-Stack+Developer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2500&pause=300&color=F7F7F7&background=000000&center=true&random=false&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hello+World!;%F0%9F%96%90%EF%B8%8F+The+names+Jason+(%F0%9F%9A%ABnot+json);%E2%98%95+And+I+am+an;%F0%9F%AA%84++Aspiring+Full-Stack+Developer!)](https://git.io/typing-svg)
 
 ##### :telescope: Web development utilizing front-end libraries
 
