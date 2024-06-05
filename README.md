@@ -89,12 +89,12 @@
 <h3 align="center">🥅&nbsp;&nbsp;C U R R E N T &nbsp; P R O J E C T S&nbsp;&nbsp;🥅</h3>
 
 <br> 
-
+<!--1st Row-->
 <div width="100%" align="center">
   <a align="center" href="https://github.com/Jaycelab/Fur-City-Adoption-Express" title="Pet Adoption">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&repo=Fur-City-Adoption-Express&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
   </a>
-  &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
   <a align="center" href="https://github.com/Jaycelab/X-MERN-Clone" title="X Clone">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&repo=X-MERN-Clone&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
   </a>
@@ -102,6 +102,7 @@
 
 <br/>
 
+<!--Second Row-->
 <div width="100%" align="center">
   <a align="center" href="https://github.com/Jaycelab/Food-MERN-App-FE" title="Food App FE">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&repo=Food-MERN-App-FE&theme=dark&icon_color=FFFFFF&border_color=FFFFFF&bg_color=FFFFFF00&border_radius=10">
