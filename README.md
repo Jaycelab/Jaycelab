@@ -57,6 +57,7 @@
   <img src="https://img.icons8.com/nolan/64/nextjs.png" title="Next" alt="Next" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostGreSQL" alt="PostGreSQL" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/oauth/oauth-original.svg" title="OAuth" alt="OAuth" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="30" height="30"/>&nbsp;
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidty" alt="Solidty" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="30" height="30"/>&nbsp;
