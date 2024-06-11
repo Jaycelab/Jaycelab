@@ -119,6 +119,6 @@
 <br/>
 <br/>
 
-### 📬 Let's connect! [![Linkedin Badge](https://img.shields.io/badge/-Connect-blue?style=round&logo=Linkedin&logoColor=white)](mailto:jayxalvarado@gmail.com)
+### 📬 Let's connect! [![Linkedin Badge](https://img.shields.io/badge/-Connect-blue?style=round&logo=Linkedin&logoColor=white)](mailto:jason.json@hotmail.com)
 <img src="https://komarev.com/ghpvc/?username=Jaycelab&style=flat-square&color=blue" alt="" width="130" height="25"/>
 </div>
