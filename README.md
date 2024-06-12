@@ -1,15 +1,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="325" height="300 "/>
   <div id="badges">
-    
   <a href="mailto:jason.json@hotmail.com">
    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" width="200"/>
   </a>
-  
-  <a href="https://www.discord.com/users/580194604616515595">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="mailto:hellojason.json@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  
   <a href="mailto:package.jason@protonmail.com">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
   </a>
