@@ -44,7 +44,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-plain-wordmark.svg" title="Redhat" alt="Redhat" width="30" height="30"/>&nbsp;
 </div>
-<br>
 
 ### 📆 Currently Learning 
 
@@ -57,7 +56,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/oauth/oauth-original.svg" title="OAuth" alt="OAuth" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="30" height="30"/>&nbsp;
 </div>
-<br>
 
 ### 📌 Future Learnings
 <div>
