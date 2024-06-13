@@ -1,7 +1,7 @@
 <div id="header" align="center">
  <!-- <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="325" height="300 "/>-->
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2500&pause=300&color=F7F7F7&background=000000&center=true&random=false&width=435&height=250&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hello+World!;%F0%9F%96%90%EF%B8%8F+The+names+Jason+(%F0%9F%9A%ABnot+json);%E2%98%95+And+I+am+an;%F0%9F%AA%84++Aspiring+Full-Stack+Developer!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2500&pause=300&color=F7F7F7&background=000000&center=true&random=false&width=435&height=225&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hello+World!;%F0%9F%96%90%EF%B8%8F+The+names+Jason+(%F0%9F%9A%ABnot+json);%E2%98%95+And+I+am+an;%F0%9F%AA%84++Aspiring+Full-Stack+Developer!)](https://git.io/typing-svg)
   <div id="badges">
   <a href="mailto:jason.json@hotmail.com">
    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" width="200"/>
@@ -47,23 +47,27 @@
 <br>
 
 ### 📆 Currently Learning 
+
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="30" height="30"/>&nbsp;
   <img src="https://img.icons8.com/nolan/64/nextjs.png" title="Next" alt="Next" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostGreSQL" alt="PostGreSQL" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="Yarn" alt="Yarn" width="40" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/oauth/oauth-original.svg" title="OAuth" alt="OAuth" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="30" height="30"/>&nbsp;
+</div>
+<br>
 
+### 📌 Future Learnings
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostGreSQL" alt="PostGreSQL" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidty" alt="Solidty" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="30" height="30"/>&nbsp;
   <img src="https://img.icons8.com/nolan/64/astro-js.png" title="Astro" alt="Astro" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="Yarn" alt="Yarn" width="40" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="30" height="30"/>&nbsp;
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-rust-3627930-3029156.png?f=webp&w=256" title="Rust"  alt="Rust" width="30" height="30"/>&nbsp;
-
 </div>
 
 <div>
