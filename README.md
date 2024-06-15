@@ -123,10 +123,12 @@
 <br/>
 <br/>
 <!--
-[![Linkedin Badge](https://img.shields.io/badge/-Connect-blue?style=round&logo=Linkedin&logoColor=white)](mailto:jason.json@hotmail.com)-->
+[![Linkedin Badge](https://img.shields.io/badge/-Connect-blue?style=round&logo=Linkedin&logoColor=white)](mailto:jason.json@hotmail.com)
 <div id="yourLocalCodingG">
 <img src="https://i.ibb.co/7GMbVXH/GQBvslg-WYAAAsw-S.png" width="130" height="55 "/>
-</div>
+</div>-->
+<br/>
+
 <div>
 <img src="https://komarev.com/ghpvc/?username=Jaycelab&style=flat-square&color=blue" alt="" width="130" height="25"/>
 </div>
