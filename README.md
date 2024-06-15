@@ -42,7 +42,7 @@
   <br>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Expressjs" alt="Expressjs" width="40" height="40"/>&nbsp;
+  <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/8d565/express-js.webp" title="Expressjs" alt="Expressjs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-plain-wordmark.svg" title="Redhat" alt="Redhat" width="30" height="30"/>&nbsp;-->
@@ -55,6 +55,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="30" height="30"/>&nbsp;
   <img src="https://img.icons8.com/nolan/64/nextjs.png" title="Next" alt="Next" width="30" height="30"/>&nbsp;
+   <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" title="Framer" alt="Framre" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="Yarn" alt="Yarn" width="40" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/oauth/oauth-original.svg" title="OAuth" alt="OAuth" width="30" height="30"/>&nbsp;
 </div>
@@ -63,7 +64,7 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostGreSQL" alt="PostGreSQL" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidty" alt="Solidty" width="30" height="30"/>&nbsp;
+  <img src="https://soliditylang.org/assets/siteicon.svg" title="Solidty" alt="Solidty" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="30" height="30"/>&nbsp;
   <img src="https://img.icons8.com/nolan/64/astro-js.png" title="Astro" alt="Astro" width="30" height="30"/>&nbsp;
 <!--  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="30" height="30"/>&nbsp;-->
