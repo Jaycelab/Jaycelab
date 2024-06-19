@@ -82,11 +82,11 @@
 
   ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaycelab&theme=dark&background=000000&hide_border=true)
   ![My Github Stats](https://github-readme-stats.vercel.app/api?username=jaycelab&show_icons=true&theme=dark&background=000000&hide_border=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaycelab&layout=donut&theme=dark&background=000000&hide_border=true)
-  [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaycelab&layout=compact&theme=dark&background=000000&hide_border=true)](https://wakatime.com/@jaycelab)
-  <a href="https://typingstats.com/profile/jaycelab&ref=badge" target="_top">
-    <img src="https://data.typeracer.com/misc/badge?user=jaycelab" border="0" theme="dark" width="125" height="250"  />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaycelab&layout=donut&theme=dark&background=000000&hide_border=true)  <a href="https://typingstats.com/profile/jaycelab&ref=badge" target="_top">
+  <img src="https://data.typeracer.com/misc/badge?user=jaycelab" border="0" theme="dark" width="125" height="213"  />
   </a>  
+ <!--[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaycelab&layout=compact&theme=dark&background=000000&hide_border=true)](https://wakatime.com/@jaycelab)-->
+
 </div>  
 
 <!--### :writing_hand: Blog Posts : TD: updated feed api-->
