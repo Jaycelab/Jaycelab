@@ -72,12 +72,16 @@
 </div>
 
 <div>
+ 
 <br>
 
 ### 🖥️ My Stats:
 <div>
+
+![Codewars Stats](https://www.codewars.com/users/Jaycelab/badges/micro)
  
-[![Codewars Stats](https://www.codewars.com/users/Jaycelab/badges/micro)](https://www.codewars.com/users/Jaycelab)
+![wakatime](https://wakatime.com/badge/user/7071ed70-81fb-4de8-83eb-973828aa14b2.svg)
+
 </div>
 
   ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaycelab&theme=dark&background=000000&hide_border=true)
@@ -94,6 +98,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!--Current Repo-->
+<br>
+
 <h3 align="center">🥅&nbsp;&nbsp;C U R R E N T&nbsp; P R O J E C T S&nbsp;&nbsp;🥅</h3>
 
 <br> 
