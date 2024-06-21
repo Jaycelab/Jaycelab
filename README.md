@@ -140,17 +140,17 @@
 
 <br/>
 
-<h4 align="center" font-size="1px">
+<h4 align="center" >
 <a href="https://github.com/Jaycelab?tab=repositories" title="Show More" width="125" height="20"  >🔎 SHOW MORE</a>
 
-<br/>
-<br/>
+<br>
+
 <!--
 [![Linkedin Badge](https://img.shields.io/badge/-Connect-blue?style=round&logo=Linkedin&logoColor=white)](mailto:jason.json@hotmail.com)
 <div id="yourLocalCodingG">
 <img src="https://i.ibb.co/7GMbVXH/GQBvslg-WYAAAsw-S.png" width="130" height="55 "/>
 </div>-->
-
+<br>
 
 <div>
 <img src="https://komarev.com/ghpvc/?username=Jaycelab&style=flat-square&color=blue" alt="" width="130" height="25"/>
