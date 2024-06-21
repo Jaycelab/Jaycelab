@@ -127,6 +127,8 @@
   </a>
 </div>
 
+<br/>
+
 <!--Third Row-->
 <div width="100%" align="center">
   <a align="center" href="https://github.com/Jaycelab/Food-MERN-App-FE" title="Food App FE">
