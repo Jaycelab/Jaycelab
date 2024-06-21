@@ -99,6 +99,19 @@
 <br> 
 <!--1st Row-->
 <div width="100%" align="center">
+  <a align="center" href="https://github.com/Jaycelab/Bootcamp" title="FE Bootcamp">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test1&repo=Bootcamp&theme=dark&icon_color=FFFFFFbackground=000000&hide_border=true">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a align="center" href="https://github.com/Jaycelab/Portfolio" title="Main Portfolio">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test2&repo=Portfolio&theme=dark&icon_color=FFFFFF&background=000000&hide_border=true">
+  </a>
+</div>
+
+<br/>
+
+<!--Second Row-->
+<div width="100%" align="center">
   <a align="center" href="https://github.com/Jaycelab/Fur-City-Adoption-Express" title="Pet Adoption">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test&repo=Fur-City-Adoption-Express&theme=dark&icon_color=FFFFFF&background=000000&hide_border=true">
   </a>
@@ -108,9 +121,7 @@
   </a>
 </div>
 
-<br/>
-
-<!--Second Row-->
+<!--Third Row-->
 <div width="100%" align="center">
   <a align="center" href="https://github.com/Jaycelab/Food-MERN-App-FE" title="Food App FE">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test&repo=Food-MERN-App-FE&theme=dark&icon_color=FFFFFFbackground=000000&hide_border=true">
@@ -123,19 +134,8 @@
 
 <br/>
 
-<!--Third Row-->
-<div width="100%" align="center">
-  <a align="center" href="https://github.com/Jaycelab/Bootcamp" title="FE Bootcamp">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test1&repo=Bootcamp&theme=dark&icon_color=FFFFFFbackground=000000&hide_border=true">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a align="center" href="https://github.com/Jaycelab/Portfolio" title="Main Portfolio">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test2&repo=Portfolio&theme=dark&icon_color=FFFFFF&background=000000&hide_border=true">
-  </a>
-</div>
-
-<h4 align="center">
-<a href="https://github.com/Jaycelab?tab=repositories" title="Show More" width="130" height="25" >🔎 Show More</a>
+<h4 align="center" font-size="1px">
+<a href="https://github.com/Jaycelab?tab=repositories" title="Show More" width="125" height="20"  >🔎 SHOW MORE</a>
 
 <br/>
 <br/>
