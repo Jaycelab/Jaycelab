@@ -5,8 +5,8 @@
 <div id="badges">
 
   ### 📬 Let's connect! 
-  <a href="mailto:jason.json@hotmail.com">
-   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" width="186" height="32"/>
+  <a href="mailto:jason.json@hotmail.com" title="E-mail Me">
+   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&" width="186" height="32"/>
   </a>
   <!--<a href="mailto:package.jason@protonmail.com">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
@@ -78,9 +78,11 @@
 ### 🖥️ My Stats:
 <div>
 
-![Codewars Stats](https://www.codewars.com/users/Jaycelab/badges/micro)
- 
-![wakatime](https://wakatime.com/badge/user/7071ed70-81fb-4de8-83eb-973828aa14b2.svg)
+ <img src="https://www.codewars.com/users/Jaycelab/badges/micro" title="Codwars Stats" alt="Codwars Stats" width="125" />&nbsp;
+<!--![Codewars Stats](https://www.codewars.com/users/Jaycelab/badges/micro)-->
+
+<img src="https://wakatime.com/badge/user/7071ed70-81fb-4de8-83eb-973828aa14b2.svg" title="Waka Time" alt="Waka Time" width="200" />&nbsp;
+<!--![wakatime](https://wakatime.com/badge/user/7071ed70-81fb-4de8-83eb-973828aa14b2.svg)-->
 
 </div>
 
