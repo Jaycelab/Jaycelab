@@ -82,10 +82,10 @@
 
 <div>
 
- <img src="https://www.codewars.com/users/Jaycelab/badges/micro" title="Codwars Stats" alt="Codwars Stats" width="110" height="25" />&nbsp;
+ <img src="https://www.codewars.com/users/Jaycelab/badges/micro" title="Codwars Stats" alt="Codwars Stats" width="110" height="20" />&nbsp;
 <!--![Codewars Stats](https://www.codewars.com/users/Jaycelab/badges/micro)-->
 
-<img src="https://wakatime.com/badge/user/7071ed70-81fb-4de8-83eb-973828aa14b2.svg" title="Waka Time" alt="Waka Time" width="150" height="25" />&nbsp;
+<img src="https://wakatime.com/badge/user/7071ed70-81fb-4de8-83eb-973828aa14b2.svg" title="Waka Time" alt="Waka Time" width="155" height="20" />&nbsp;
 <!--![wakatime](https://wakatime.com/badge/user/7071ed70-81fb-4de8-83eb-973828aa14b2.svg)-->
 
 </div>
