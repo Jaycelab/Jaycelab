@@ -77,12 +77,12 @@
   <!--  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="30" height="30"/>&nbsp;-->
 </div>
 
-### 🖥️ My Stats:
+## 🖥️ My Stats:
 
 
 <div>
 
- <img src="https://www.codewars.com/users/Jaycelab/badges/micro" title="Codwars Stats" alt="Codwars Stats" width="110" height="20" />&nbsp;
+ <img src="https://www.codewars.com/users/Jaycelab/badges/micro" title="Codwars Stats" alt="Codwars Stats" width="115" height="20" />&nbsp;
 <!--![Codewars Stats](https://www.codewars.com/users/Jaycelab/badges/micro)-->
 
 <img src="https://wakatime.com/badge/user/7071ed70-81fb-4de8-83eb-973828aa14b2.svg" title="Waka Time" alt="Waka Time" width="155" height="20" />&nbsp;
