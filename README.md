@@ -55,23 +55,26 @@
 ### 📆 Currently Learning 
 
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="OAuth" alt="OAuth" width="30" height="30"/>&nbsp;
+  <img src="https://bestofjs.org/logos/svelte.dark.svg" title="Svelte" alt="Svelte" width="30" height="30"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" title="ShadUI" alt="ShadUI" width="30" height="30"/>&nbsp;
   <img src="https://bestofjs.org/logos/daisy.dark.svg" title="DaisyUI" alt="DaisyUI" width="30" height="30"/>&nbsp;
-   <img src="https://pnpm.io/assets/images/pnpm-light-477811893d2e1c4ad4b10345c442282e.svg" title="PNPM" alt="PNPM" width="30" height="30"/>&nbsp;
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="OAuth" alt="OAuth" width="30" height="30"/>&nbsp;
+  <img src="https://pnpm.io/assets/images/pnpm-light-477811893d2e1c4ad4b10345c442282e.svg" title="PNPM" alt="PNPM" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="Yarn" alt="Yarn" width="30" height="30"/>&nbsp;
- 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/oauth/oauth-original.svg" title="OAuth" alt="OAuth" width="30" height="30"/>&nbsp;
-   <img src="https://bestofjs.org/logos/svelte.dark.svg" title="Svelte" alt="Svelte" width="30" height="30"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="30" height="30"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/oauth/oauth-original.svg" title="OAuth" alt="OAuth" width="30" height="30"/>&nbsp;
+
 </div>
 
 ### 📌 Future Learnings
 <div>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostGreSQL" alt="PostGreSQL" width="30" height="30"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostGreSQL" alt="PostGreSQL" width="30" height="30"/>&nbsp;
   <img src="https://soliditylang.org/assets/siteicon.svg" title="Solidty" alt="Solidty" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="30" height="30"/>&nbsp;
- 
+
+   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="30" height="30"/>&nbsp;
   <img src="https://img.icons8.com/nolan/64/astro-js.png" title="Astro" alt="Astro" width="30" height="30"/>&nbsp;
   <img src="https://bestofjs.org/logos/bun.dark.svg" title="Bun"  alt="Bun" width="30" height="30"/>&nbsp;
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-rust-3627930-3029156.png?f=webp&w=256" title="Rust"  alt="Rust" width="30" height="30"/>&nbsp;
@@ -83,7 +86,7 @@
 # 🖥️ My Stats:
 
 <div>
- <img src="https://www.codewars.com/users/Jaycelab/badges/micro" title="Codwars Stats" alt="Codwars Stats" width="100" height="20" />&nbsp;
+ <img src="https://www.codewars.com/users/Jaycelab/badges/micro" title="Codwars Stats" alt="Codwars Stats" width="115" height="20" />&nbsp;
 <!--![Codewars Stats](https://www.codewars.com/users/Jaycelab/badges/micro)-->
 
 <img src="https://wakatime.com/badge/user/7071ed70-81fb-4de8-83eb-973828aa14b2.svg" title="Waka Time" alt="Waka Time" width="155" height="20" />&nbsp;
