@@ -97,7 +97,7 @@
   ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaycelab&theme=dark&background=000000&hide_border=true)&nbsp;
   <!--![My Github Stats](https://github-readme-stats.vercel.app/api?username=jaycelab&show_icons=true&theme=dark&background=000000&hide_border=true)-->
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaycelab&layout=donut&theme=dark&background=000000&hide_border=true)&nbsp;&nbsp;<a href="https://typingstats.com/profile/jaycelab&ref=badge" target="_top">
-  <img src="https://data.typeracer.com/misc/badge?user=jaycelab" border="0" theme="dark" width="125" height="250"  />
+  <img src="https://data.typeracer.com/misc/badge?user=jaycelab" border="0" width="125" height="250"  />
   </a>  
  <!--[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaycelab&layout=compact&theme=dark&background=000000&hide_border=true)](https://wakatime.com/@jaycelab)-->
 
@@ -116,11 +116,11 @@
 <!--1st Row-->
 <div width="100%" align="center">
   <a align="center" href="https://github.com/Jaycelab/Portfolio" title="Main Portfolio">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test2&repo=Portfolio&theme=dark&icon_color=FFFFFF&background=000000&hide_border=true">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test2&repo=Portfolio&theme=dark&icon_color=a91717&background=000000&hide_border=true">
   </a>
   &nbsp;&nbsp;&nbsp;
    <a align="center" href="https://github.com/Jaycelab/Portfolio-2" title="Mini Portfolio">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test3&repo=Portfolio-2&theme=dark&icon_color=FFFFFFbackground=000000&hide_border=true">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test3&repo=Portfolio-2&theme=dark&icon_color=a91717&background=000000&hide_border=true">
   </a>
 </div>
 
@@ -130,11 +130,11 @@
 <div width="100%" align="center">
 
    <a align="center" href="https://github.com/Jaycelab/Fur-City-Adoption-Express" title="Pet Adoption">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test&repo=Fur-City-Adoption-Express&theme=dark&icon_color=FFFFFF&background=000000&hide_border=true">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test&repo=Fur-City-Adoption-Express&theme=dark&icon_color=00FF00&background=000000&hide_border=true">
   </a>
     &nbsp;&nbsp;&nbsp;
   <a align="center" href="https://github.com/Jaycelab/X-MERN-Clone" title="X Clone">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test&repo=X-MERN-Clone&theme=dark&icon_color=FFFFFF&background=000000&hide_border=true">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test&repo=X-MERN-Clone&theme=dark&icon_color=00FF00&background=000000&hide_border=true">
   </a>
 </div>
 
@@ -143,11 +143,11 @@
 <!--Third Row-->
 <div width="100%" align="center">
   <a align="center" href="https://github.com/Jaycelab/Food-MERN-App-FE" title="Food App FE">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test&repo=Food-MERN-App-FE&theme=dark&icon_color=FFFFFFbackground=000000&hide_border=true">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test&repo=Food-MERN-App-FE&theme=dark&icon_color=00BFFF&background=000000&hide_border=true">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a align="center" href="https://github.com/Jaycelab/Food-MERN-App-BE" title="Food App BE">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test&repo=Food-MERN-App-BE&theme=dark&icon_color=FFFFFF&background=000000&hide_border=true">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test&repo=Food-MERN-App-BE&theme=dark&icon_color=00BFFF&background=000000&hide_border=true">
   </a>
 </div>
 
