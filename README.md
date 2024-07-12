@@ -56,14 +56,17 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="OAuth" alt="OAuth" width="30" height="30"/>&nbsp;
+  <img src="https://zod.dev/logo.svg" title="Zod" alt="Zod" width="30" height="30"/>&nbsp;
+  <img src="https://pnpm.io/assets/images/pnpm-light-477811893d2e1c4ad4b10345c442282e.svg" title="PNPM" alt="PNPM" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="Yarn" alt="Yarn" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oauth/oauth-original.svg" title="OAuth" alt="OAuth" width="30" height="30"/>&nbsp;
+
+
   <img src="https://bestofjs.org/logos/svelte.dark.svg" title="Svelte" alt="Svelte" width="30" height="30"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" title="ShadUI" alt="ShadUI" width="30" height="30"/>&nbsp;
   <img src="https://bestofjs.org/logos/daisy.dark.svg" title="DaisyUI" alt="DaisyUI" width="30" height="30"/>&nbsp;
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="OAuth" alt="OAuth" width="30" height="30"/>&nbsp;
-  <img src="https://pnpm.io/assets/images/pnpm-light-477811893d2e1c4ad4b10345c442282e.svg" title="PNPM" alt="PNPM" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="Yarn" alt="Yarn" width="30" height="30"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/oauth/oauth-original.svg" title="OAuth" alt="OAuth" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MaterialUI" alt="MaterialUI" width="30" height="30"/>&nbsp;
+  <img src="https://play-lh.googleusercontent.com/KtFwMsqVzBBpTFc8vR5SZRCNBvqknlWurnzTRl4J-2kdZhoM04LjklX9Vh8pl-fYfpU" title="PexelsAPI" alt="PexelsAPI" width="30" height="30"/>&nbsp;
 
 </div>
 
@@ -81,15 +84,12 @@
   <!--  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="30" height="30"/>&nbsp;-->
 </div>
 
-<br>
-
 # 🖥️ My Stats:
 
 <div>
- <img src="https://www.codewars.com/users/Jaycelab/badges/micro" title="Codwars Stats" alt="Codwars Stats" width="115" height="20" />&nbsp;
+<!-- <img src="https://www.codewars.com/users/Jaycelab/badges/micro" title="Codwars Stats" alt="Codwars Stats" width="115" height="20" />&nbsp;-->
 <!--![Codewars Stats](https://www.codewars.com/users/Jaycelab/badges/micro)-->
-
-<img src="https://wakatime.com/badge/user/7071ed70-81fb-4de8-83eb-973828aa14b2.svg" title="Waka Time" alt="Waka Time" width="155" height="25" />&nbsp;
+<!--!<img src="https://wakatime.com/badge/user/7071ed70-81fb-4de8-83eb-973828aa14b2.svg" title="Waka Time" alt="Waka Time" width="155" height="25" />&nbsp;-->
 <!--![wakatime](https://wakatime.com/badge/user/7071ed70-81fb-4de8-83eb-973828aa14b2.svg)-->
 
 
