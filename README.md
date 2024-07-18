@@ -141,8 +141,8 @@
 
 <!--Third Row-->
 <div width="100%" align="center">
-  <a align="center" href="https://github.com/Jaycelab/Coinjayce" title="Coinjayce">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test1&repo=Coinjayce&theme=dark&icon_color=00BFFF&background=000000&hide_border=true">
+  <a align="center" href="https://github.com/Jaycelab/Crypto-Tracker" title="Crypto Tracker">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test2&repo=Crypto-Tracker&theme=dark&icon_color=00BFFF&background=000000&hide_border=true">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a align="center" href="https://github.com/Jaycelab/Quiz-App" title="Quiz-App">
