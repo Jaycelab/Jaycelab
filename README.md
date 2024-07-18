@@ -115,14 +115,21 @@
 <br> 
 <!--1st Row-->
 <div width="100%" align="center">
-  <a align="center" href="https://github.com/Jaycelab/Portfolio" title="Main Portfolio">
+ <table>
+<tr>
+<td width="50%">
+  <a align="center" href="https://github.com/Jaycelab/Portfolio" title="Main Portfolio" ">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test2&repo=Portfolio&theme=dark&icon_color=a91717&background=000000&hide_border=true">
   </a>
   &nbsp;&nbsp;&nbsp;
-   <a align="center" href="https://github.com/Jaycelab/Portfolio-2" title="Mini Portfolio">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test3&repo=Portfolio-2&theme=dark&icon_color=a91717&background=000000&hide_border=true">
-  </a>
-</div>
+
+https://github.com/user-attachments/assets/375258fd-2099-4b4f-9966-d079b632c682
+<td/>
+ <table>
+
+
+ 
+
 
 <br/>
 
