@@ -1,3 +1,16 @@
+<!-- todo
+fix row 5 & 6 table row/data tags. background color not matching
+
+table layout in mobile view
+
+update code/website linkd
+
+upload project videos
+
+check for duplicate , unclosed tags
+
+-->
+
 <div id="header" align="center">
  <!-- <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="325" height="300 "/>-->
 
