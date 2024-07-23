@@ -1,14 +1,15 @@
-<!-- todo
-fix row 5 & 6 table row/data tags. background color not matching
+<!--
+************************************ 
+TODO: 
 
-table layout in mobile view
+- fix row 5 & 6 table row/data tags. background color not matching
+- table layout in mobile view
+- update code/website linkd
+- update project description summary
+- upload project videos
+- check for duplicate , unclosed tags
 
-update code/website linkd
-
-upload project videos
-
-check for duplicate , unclosed tags
-
+*******************************
 -->
 
 <div id="header" align="center">
