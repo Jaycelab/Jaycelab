@@ -164,7 +164,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare le
   <br>
  
  <a align="center" href="https://github.com/Jaycelab/Fur-City-Adoption-Express" title="Pet Adoption">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test&repo=Fur-City-Adoption-Express&theme=dark&icon_color=00FF00&background=000000&hide_border=true">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test2&repo=Fur-City-Adoption-Express&theme=dark&icon_color=00FF00&background=000000&hide_border=true">
   </a>
   
 <br>
@@ -203,7 +203,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare le
  <br>
  
  <a align="center" href="https://github.com/Jaycelab/Portfolio-2" title="Mini Portfolio">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test3&repo=Portfolio-2&theme=dark&icon_color=a91717&background=000000&hide_border=true">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test&repo=Portfolio-2&theme=dark&icon_color=a91717&background=000000&hide_border=true">
   </a>
  
 <br>
