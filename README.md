@@ -118,7 +118,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center" color="white">Main Portfolio</h2>
+<h3 align="center" color="white">Main Portfolio</h3>
 <div align="center" >  
   <a align="center" href="https://github.com/Jaycelab/Portfolio" title="Main Portfolio">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test2&repo=Portfolio&theme=dark&icon_color=a91717&background=000000&hide_border=true">
@@ -148,7 +148,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare le
 <br>
 <hr>
 
-  <h3 align="center" color="white">Fur City Adoption</h2>
+  <h3 align="center" color="white">Fur City Adoption</h3>
 <div align="center" >  
  <a align="center" href="https://github.com/Jaycelab/Fur-City-Adoption-Express" title="Pet Adoption">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test&repo=Fur-City-Adoption-Express&theme=dark&icon_color=00FF00&background=000000&hide_border=true">
@@ -172,10 +172,20 @@ https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90
 </p>
 <p><strong>React, Flask, Socketio</strong> - 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare leo eu consequat. Etiam elementum tincidunt bibendum. Integer nec cursus est, luctus mattis lorem.</p>
+
+<br>
+<br>
+<hr>
+
 </div>
+
+
 </td>
+
+
+
 <td width="50%">
-<h3 align="center" color="white">Mini Portfolio</h2>
+<h3 align="center" color="white">Mini Portfolio</h3>
 <div align="center" >  
  <a align="center" href="https://github.com/Jaycelab/Portfolio-2" title="Mini Portfolio">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test3&repo=Portfolio-2&theme=dark&icon_color=a91717&background=000000&hide_border=true">
@@ -204,7 +214,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare le
 <br>
 <hr>
 
-  <h3 align="center" color="white">X Clone</h2>
+  <h3 align="center" color="white">X Clone</h3>
 <div align="center" >  
   <a align="center" href="https://github.com/Jaycelab/X-MERN-Clone" title="X Clone">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test&repo=X-MERN-Clone&theme=dark&icon_color=00FF00&background=000000&hide_border=true">
@@ -228,13 +238,17 @@ https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90
 <p><strong>JavaScript, HTML5, CSS3</strong> - 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare leo eu consequat. Etiam elementum tincidunt bibendum. Integer nec cursus est, luctus mattis lorem.</p>
 
+<br>
+<br>
+<hr>
+
 <div align="center">
 
 
 
 <tr>
 <td width="50%">
-<h3 align="center" color="white">Crypto Tracker App</h2>
+<h3 align="center" color="white">Crypto Tracker App</h3>
 <div align="center" >  
   <a align="center" href="https://github.com/Jaycelab/Crypto-Tracker" title="Crypto Tracker">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test2&repo=Crypto-Tracker&theme=dark&icon_color=00BFFF&background=000000&hide_border=true">
@@ -261,7 +275,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare le
 </div>
 
 <td width="50%">
-<h3 align="center" color="white">Quiz</h2>
+<h3 align="center" color="white">Javascript Quiz</h3>
 <div align="center" >  
   <a align="center" href="https://github.com/Jaycelab/Quiz-App" title="Quiz-App">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test1&repo=Quiz-App&theme=dark&icon_color=00BFFF&background=000000&hide_border=true">
