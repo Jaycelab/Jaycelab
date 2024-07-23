@@ -1,8 +1,11 @@
 <div id="header" align="center">
  <!-- <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="325" height="300 "/>-->
- 
+
  ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2500&pause=300&color=F7F7F7&background=000000&center=true&random=false&width=435&height=256&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hello+World!;%F0%9F%96%90%EF%B8%8F+The+names+Jason+(%F0%9F%9A%ABnot+json);%E2%98%95+And+I+am+an;%F0%9F%AA%84++Aspiring+Full-Stack+Developer!)](https://git.io/typing-svg)
 <div id="badges">
+
+
+ 
 
   ### 📬 Let's connect! 
   <a href="mailto:jason.json@hotmail.com" title="Contact Me">
@@ -84,6 +87,10 @@
   <!--  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="30" height="30"/>&nbsp;-->
 </div>
 
+<div>
+<img src="https://komarev.com/ghpvc/?username=Jaycelab&style=flat-square&color=blue" alt="" width="120" height="25"/>
+</div>
+
 # 🖥️ My Stats:
 
 <div>
@@ -111,8 +118,6 @@
 <br>
 
 <h3 align="center">🥅&nbsp;&nbsp;C U R R E N T&nbsp; P R O J E C T S&nbsp;&nbsp;🥅</h3>
-
-<br> 
 <!--1st Row-->
 <div align="center">
 <table>
@@ -300,11 +305,10 @@ https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare leo eu consequat. Etiam elementum tincidunt bibendum. Integer nec cursus est, luctus mattis lorem.</p>
 </div>
 </td>
-
 </div>
+<!--
 
 
-<br/>
 
 <!--Fourth Row
 <div width="100%" align="center">
@@ -317,22 +321,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare le
   </a>
 </div>-->
 
-<br/>
 
-<h4 align="center" >
-<a href="https://github.com/Jaycelab?tab=repositories" color="white" title="Show More" width="125" height="20"  >🔎 SHOW MORE</a>
+<!-- <h4 align="center" >
+<a href="https://github.com/Jaycelab?tab=repositories" color="white" title="Show More" width="125" height="20"  >🔎 SHOW MORE</a>->
  
-<br>
+
 <!--
 [![Linkedin Badge](https://img.shields.io/badge/-Connect-blue?style=round&logo=Linkedin&logoColor=white)](mailto:jason.json@hotmail.com)
 <div id="yourLocalCodingG">
 <img src="https://i.ibb.co/7GMbVXH/GQBvslg-WYAAAsw-S.png" width="130" height="55 "/>
 </div>-->
-<br>
-
-<div>
-<img src="https://komarev.com/ghpvc/?username=Jaycelab&style=flat-square&color=blue" alt="" width="130" height="25"/>
-</div>
-
-</div>
-
