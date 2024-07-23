@@ -114,41 +114,181 @@
 
 <br> 
 <!--1st Row-->
-<div width="100%" align="center">
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<h3 align="center" color="white">Main Portfolio</h2>
+<div align="center" >  
   <a align="center" href="https://github.com/Jaycelab/Portfolio" title="Main Portfolio">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test2&repo=Portfolio&theme=dark&icon_color=a91717&background=000000&hide_border=true">
   </a>
-  &nbsp;&nbsp;&nbsp;
-   <a align="center" href="https://github.com/Jaycelab/Portfolio-2" title="Mini Portfolio">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test3&repo=Portfolio-2&theme=dark&icon_color=a91717&background=000000&hide_border=true">
-  </a>
+
+<br>
+<br>
+
+https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90
+
+<br>
+<br>
+<p>
+  <a href="https://github.com" target="_blank">
+  
+<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+    
+<a href="https://github.com" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
+</a>
+</p>
+<p><strong>JavaScript, CSS3, HTML5</strong> - 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare leo eu consequat. Etiam elementum tincidunt bibendum. Integer nec cursus est, luctus mattis lorem.</p>
 </div>
 
-<br/>
+<br>
+<br>
+<hr>
 
-<!--Second Row-->
-<div width="100%" align="center">
-   <a align="center" href="https://github.com/Jaycelab/Fur-City-Adoption-Express" title="Pet Adoption">
+  <h3 align="center" color="white">Fur City Adoption</h2>
+<div align="center" >  
+ <a align="center" href="https://github.com/Jaycelab/Fur-City-Adoption-Express" title="Pet Adoption">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test&repo=Fur-City-Adoption-Express&theme=dark&icon_color=00FF00&background=000000&hide_border=true">
   </a>
-    &nbsp;&nbsp;&nbsp;
+  
+<br>
+<br>
+
+https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90
+  
+<br>
+<br>
+<p>
+  <a href="https://github.com" target="_blank">
+  
+<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+    
+<a href="https://github.com" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
+</a>
+</p>
+<p><strong>React, Flask, Socketio</strong> - 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare leo eu consequat. Etiam elementum tincidunt bibendum. Integer nec cursus est, luctus mattis lorem.</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center" color="white">Mini Portfolio</h2>
+<div align="center" >  
+ <a align="center" href="https://github.com/Jaycelab/Portfolio-2" title="Mini Portfolio">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test3&repo=Portfolio-2&theme=dark&icon_color=a91717&background=000000&hide_border=true">
+  </a>
+ 
+<br>
+<br>
+
+https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90
+  
+<br>
+<br>
+<p>
+<a href="https://github.com" target="_blank">
+<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+</a>  
+<a href="https://github.com" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
+</a>
+</p>
+<p><strong>JavaScript, HTML5, CSS3</strong> - 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare leo eu consequat. Etiam elementum tincidunt bibendum. Integer nec cursus est, luctus mattis lorem.</p>
+</div>
+
+<br>
+<br>
+<hr>
+
+  <h3 align="center" color="white">X Clone</h2>
+<div align="center" >  
   <a align="center" href="https://github.com/Jaycelab/X-MERN-Clone" title="X Clone">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test&repo=X-MERN-Clone&theme=dark&icon_color=00FF00&background=000000&hide_border=true">
   </a>
-</div>
+ 
+<br>
+<br>
 
-<br/>
+https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90
+  
+<br>
+<br>
+<p>
+<a href="https://github.com" target="_blank">
+<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+</a>  
+<a href="https://github.com" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
+</a>
+</p>
+<p><strong>JavaScript, HTML5, CSS3</strong> - 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare leo eu consequat. Etiam elementum tincidunt bibendum. Integer nec cursus est, luctus mattis lorem.</p>
 
-<!--Third Row-->
-<div width="100%" align="center">
+<div align="center">
+
+
+
+<tr>
+<td width="50%">
+<h3 align="center" color="white">Crypto Tracker App</h2>
+<div align="center" >  
   <a align="center" href="https://github.com/Jaycelab/Crypto-Tracker" title="Crypto Tracker">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test2&repo=Crypto-Tracker&theme=dark&icon_color=00BFFF&background=000000&hide_border=true">
   </a>
-  &nbsp;&nbsp;&nbsp;
+  
+<br>
+<br>
+
+https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90
+  
+<br>
+<br>
+<p>
+  <a href="https://github.com" target="_blank">
+  
+<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+    
+<a href="https://github.com" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
+</a>
+</p>
+<p><strong>JavaScript, CSS3, HTML5</strong> - 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare leo eu consequat. Etiam elementum tincidunt bibendum. Integer nec cursus est, luctus mattis lorem.</p>
+</div>
+
+<td width="50%">
+<h3 align="center" color="white">Quiz</h2>
+<div align="center" >  
   <a align="center" href="https://github.com/Jaycelab/Quiz-App" title="Quiz-App">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test1&repo=Quiz-App&theme=dark&icon_color=00BFFF&background=000000&hide_border=true">
   </a>
+ 
+<br>
+<br>
+
+https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90
+  
+<br>
+<br>
+<p>
+<a href="https://github.com" target="_blank">
+<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+</a>  
+<a href="https://github.com" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
+</a>
+</p>
+<p><strong>JavaScript, HTML5, CSS3</strong> - 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare leo eu consequat. Etiam elementum tincidunt bibendum. Integer nec cursus est, luctus mattis lorem.</p>
 </div>
+</td>
+
+</div>
+
 
 <br/>
 
