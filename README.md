@@ -310,6 +310,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare le
   </a>
  
 <br>
+<br>
+
 <h3 align="center" >QUOTES GENERATOR APP</h3>
 
 https://github.com/user-attachments/assets/662c32ea-9f4c-4cd8-8e5a-746436cebc08
