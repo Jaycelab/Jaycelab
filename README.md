@@ -139,13 +139,14 @@ TODO:
 <br>
 <br>
 <br>
- 
-https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90
+
+https://github.com/user-attachments/assets/1ba3f314-1806-4c07-8c69-41fd2dad3913
+
 
 <h3 align="center" >MAIN PORTFOLIO</h3>
 <p>
 <a href="https://portfolio-mu-drab-93.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/-LIVE_DEMO-green?style=for-the-badge&color=A91717"  width="125" height="45"/>
+<img src="https://img.shields.io/badge/-LIVE_DEMO-green?style=for-the-badge&color=A91717"  width="125" height="40"/>
 </a>
 </p>
 <p><strong>Next.js, Tailwind CSS, Framer Motion, Shadcn UI </strong><br> 
@@ -160,8 +161,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare le
 
 <div align="center" >  
 
-  <br>
-
+ <br>
 
  <a align="center" href="https://github.com/Jaycelab/Fur-City-Adoption-Express" title="Pet Adoption" width="50%">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test2&repo=Fur-City-Adoption-Express&theme=dark&icon_color=00FF00&background=000000&hide_border=true">
@@ -171,12 +171,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare le
 <br>
  <br>
 
-https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90
+
+https://github.com/user-attachments/assets/67751664-c2af-4a7e-8fa1-c91f38503533
+
 <h3 align="center" >PET ADOPTION APP</h3>
 <p>
     
 <a href="https://fur-city-adoption.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/-LIVE_DEMO-green?style=for-the-badge&color=A91717"  width="125" height="45"/>
+<img src="https://img.shields.io/badge/-LIVE_DEMO-green?style=for-the-badge&color=A91717"  width="125" height="40"/>
 </a>
 </p>
 <p><strong>React.js, Express.js, MongoDB</strong><br> 
@@ -206,13 +208,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare le
  
 <br>
 <br>
- <br>
+<br>
 
-https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90  
+https://github.com/user-attachments/assets/f18935ea-d692-4f44-9eca-c1f995ec2a7c
+
+
 <h3 align="center" >SPA PORTFOLIO</h3>
 <p>
 <a href="https://portfolio-2-coral-chi.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/-LIVE_DEMO-green?style=for-the-badge&color=A91717"  width="125" height="45"/>
+<img src="https://img.shields.io/badge/-LIVE_DEMO-green?style=for-the-badge&color=A91717"  width="125" height="40"/>
 </a>
 </p>
 <p><strong>Next.js, Tailwind CSS, TypeScript, Framer Motion</strong><br> 
@@ -233,14 +237,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare le
  
 <br>
 <br>
- <br>
+<br>
 
-https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90
-  
+https://github.com/user-attachments/assets/71f6c771-8b17-40ce-8acb-11e243dbc8c5
+
 <h3 align="center" >TWITTER CLONE</h3>
 <p> 
 <a href="https://x-mern-clone.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/-LIVE_DEMO-green?style=for-the-badge&color=A91717"  width="125" height="45"/>
+<img src="https://img.shields.io/badge/-LIVE_DEMO-green?style=for-the-badge&color=A91717"  width="125" height="40"/>
 </a>  
 </a>
 </p>
@@ -271,14 +275,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare le
   </a>
   
 <br>
- <br>
+<br>
 <br>
 
-https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90
+https://github.com/user-attachments/assets/f0f50d9e-81cc-4d3b-8a60-6d63449a5389
+
 <h3 align="center" >CRYPTO PRICE TRACKER</h3>
 <p>    
 <a href="https://crypto-tracker-nine-kappa.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/-LIVE_DEMO-green?style=for-the-badge&color=A91717"  width="125" height="45"/>
+<img src="https://img.shields.io/badge/-LIVE_DEMO-green?style=for-the-badge&color=A91717"  width="125" height="40"/>
 </a> 
 </a>
 </p>
@@ -304,12 +309,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare le
  
 <br>
 <br>
- <br>
+<br>
 
-https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90
-<h3 align="center" >QUOTES APP GENERATOR</h3>
+https://github.com/user-attachments/assets/662c32ea-9f4c-4cd8-8e5a-746436cebc08
+
+<h3 align="center" >QUOTES GENERATOR APP</h3>
 <p><a href="https://jaycelab.github.io/Quotes-App/" target="_blank">
-<img src="https://img.shields.io/badge/-LIVE_DEMO-green?style=for-the-badge&color=A91717"  width="125" height="45"/>
+<img src="https://img.shields.io/badge/-LIVE_DEMO-green?style=for-the-badge&color=A91717"  width="125" height="40"/>
 </a>
 </p>
 <p><strong>React.js, Quotable API</strong><br>  
