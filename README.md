@@ -162,7 +162,7 @@ https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90
 <img src="https://img.shields.io/badge/-LIVE_DEMO-green?style=for-the-badge&color=A91717"  width="125" height="45"/>
 </a>
 </p>
-<p><strong>Next.js, Tailwind CSS, Framer Motion</strong><br> 
+<p><strong>Next.js, Tailwind CSS, Framer Motion, Shadcn UI </strong><br> 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare leo eu consequat. Etiam elementum tincidunt bibendum. Integer nec cursus est, luctus mattis lorem.</p>
 
 <br>
@@ -193,7 +193,7 @@ https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90
 <img src="https://img.shields.io/badge/-LIVE_DEMO-green?style=for-the-badge&color=A91717"  width="125" height="45"/>
 </a>
 </p>
-<p><strong>React.JS, Express.JS, MongoDB</strong><br> 
+<p><strong>React.js, Express.js, MongoDB</strong><br> 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare leo eu consequat. Etiam elementum tincidunt bibendum. Integer nec cursus est, luctus mattis lorem.</p>
 
 <br>
@@ -229,7 +229,7 @@ https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90
 <img src="https://img.shields.io/badge/-LIVE_DEMO-green?style=for-the-badge&color=A91717"  width="125" height="45"/>
 </a>
 </p>
-<p><strong>Next.JS, Tailwind CSS, Typescript, Framer Motion</strong><br> 
+<p><strong>Next.js, Tailwind CSS, TypeScript, Framer Motion</strong><br> 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare leo eu consequat. Etiam elementum tincidunt bibendum. Integer nec cursus est, luctus mattis lorem.</p>
 
 <br>
@@ -258,7 +258,7 @@ https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90
 </a>  
 </a>
 </p>
-<p><strong>ReactJS, TailwindCSS, DaisyUI</strong><br> 
+<p><strong>React.js, Tailwind CSS, Daisy UI</strong><br> 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare leo eu consequat. Etiam elementum tincidunt bibendum. Integer nec cursus est, luctus mattis lorem.</p>
 
 <br>
@@ -296,7 +296,7 @@ https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90
 </a> 
 </a>
 </p>
-<p><strong>ReactJS, CoinGecko API</strong><br> 
+<p><strong>React.js, CoinGecko API</strong><br> 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare leo eu consequat. Etiam elementum tincidunt bibendum. Integer nec cursus est, luctus mattis lorem.</p>
 
 <br>
@@ -312,8 +312,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare le
 
   <br>
 
-  <a align="center" href="https://github.com/Jaycelab/Quiz-App" title="Quiz-App" width="50%">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test1&repo=Quiz-App&theme=dark&icon_color=00BFFF&background=000000&hide_border=true">
+  <a align="center" href="https://github.com/Jaycelab/Quotes-App" title="Quotes-App" width="50%">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test2&repo=Quotes-App&theme=dark&icon_color=00BFFF&background=000000&hide_border=true">
   </a>
  
 <br>
@@ -321,12 +321,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare le
  <br>
 
 https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90
-<h3 align="center" >JAVASCRIPT QUIZ APP</h3>
-<p><a href="https://jaycelab.github.io/Quiz-App/" target="_blank">
+<h3 align="center" >QUOTES APP GENERATOR</h3>
+<p><a href="https://jaycelab.github.io/Quotes-App/" target="_blank">
 <img src="https://img.shields.io/badge/-LIVE_DEMO-green?style=for-the-badge&color=A91717"  width="125" height="45"/>
 </a>
 </p>
-<p><strong>Vanila Javascript</strong><br>  
+<p><strong>React.js, Quotable API</strong><br>  
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare leo eu consequat. Etiam elementum tincidunt bibendum. Integer nec cursus est, luctus mattis lorem.</p>
 
 <br>
