@@ -156,7 +156,7 @@ TODO:
  
 https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90
 
-<h3 align="center" >PROJECT ONE</h3>
+<h3 align="center" >MAIN PORTFOLIO</h3>
 <p>
 <a href="https://portfolio-mu-drab-93.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/-LIVE_DEMO-green?style=for-the-badge&color=A91717"  width="125" height="45"/>
@@ -186,7 +186,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare le
  <br>
 
 https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90
-<h3 align="center" >PROJECT THREE</h3>
+<h3 align="center" >PET ADOPTION APP</h3>
 <p>
     
 <a href="https://fur-city-adoption.netlify.app/" target="_blank">
@@ -223,7 +223,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare le
  <br>
 
 https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90  
-<h3 align="center" >PROJECT TWO</h3>
+<h3 align="center" >SPA PORTFOLIO</h3>
 <p>
 <a href="https://portfolio-2-coral-chi.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/-LIVE_DEMO-green?style=for-the-badge&color=A91717"  width="125" height="45"/>
@@ -251,7 +251,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare le
 
 https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90
   
-<h3 align="center" >PROJECT FOUR</h3>
+<h3 align="center" >TWITTER CLONE</h3>
 <p> 
 <a href="https://x-mern-clone.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/-LIVE_DEMO-green?style=for-the-badge&color=A91717"  width="125" height="45"/>
@@ -289,7 +289,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare le
 <br>
 
 https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90
-<h3 align="center" >PROJECT FIVE</h3>
+<h3 align="center" >CRYPTO PRICE TRACKER</h3>
 <p>    
 <a href="https://crypto-tracker-nine-kappa.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/-LIVE_DEMO-green?style=for-the-badge&color=A91717"  width="125" height="45"/>
@@ -321,7 +321,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare le
  <br>
 
 https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90
-<h3 align="center" >PROJECT SIX</h3>
+<h3 align="center" >JAVASCRIPT QUIZ APP</h3>
 <p><a href="https://jaycelab.github.io/Quiz-App/" target="_blank">
 <img src="https://img.shields.io/badge/-LIVE_DEMO-green?style=for-the-badge&color=A91717"  width="125" height="45"/>
 </a>
