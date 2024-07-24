@@ -13,7 +13,7 @@ TODO:
 -->
 
 <div id="header" align="center">
- <!-- <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="325" height="300 "/>-->
+
 
  ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2500&pause=300&color=F7F7F7&background=000000&center=true&random=false&width=435&height=256&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hello+World!;%F0%9F%96%90%EF%B8%8F+The+names+Jason+(%F0%9F%9A%ABnot+json);%E2%98%95+And+I+am+an;%F0%9F%AA%84++Aspiring+Full-Stack+Developer!)](https://git.io/typing-svg)
 <div id="badges">
@@ -25,12 +25,7 @@ TODO:
   <a href="mailto:jason.json@hotmail.com" title="Contact Me">
    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&" width="186" height="32"/>
   </a>
-  <!--<a href="mailto:package.jason@protonmail.com">
-    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
-  </a>
-  <a href="mailto:hellojason.json@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>-->
+
 </div>
   
 ##### :telescope: Web development utilizing front-end libraries
@@ -98,7 +93,7 @@ TODO:
   <img src="https://img.icons8.com/nolan/64/astro-js.png" title="Astro" alt="Astro" width="30" height="30"/>&nbsp;
   <img src="https://bestofjs.org/logos/bun.dark.svg" title="Bun"  alt="Bun" width="30" height="30"/>&nbsp;
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-rust-3627930-3029156.png?f=webp&w=256" title="Rust"  alt="Rust" width="30" height="30"/>&nbsp;
-  <!--  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="30" height="30"/>&nbsp;-->
+
 </div>
 
 <br>
@@ -110,27 +105,18 @@ TODO:
 # 🖥️ My Stats:
 
 <div>
-<!-- <img src="https://www.codewars.com/users/Jaycelab/badges/micro" title="Codwars Stats" alt="Codwars Stats" width="115" height="20" />&nbsp;-->
-<!--![Codewars Stats](https://www.codewars.com/users/Jaycelab/badges/micro)-->
-<!--!<img src="https://wakatime.com/badge/user/7071ed70-81fb-4de8-83eb-973828aa14b2.svg" title="Waka Time" alt="Waka Time" width="155" height="25" />&nbsp;-->
-<!--![wakatime](https://wakatime.com/badge/user/7071ed70-81fb-4de8-83eb-973828aa14b2.svg)-->
+
 
 
 
   ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaycelab&theme=dark&background=000000&hide_border=true)&nbsp;
-  <!--![My Github Stats](https://github-readme-stats.vercel.app/api?username=jaycelab&show_icons=true&theme=dark&background=000000&hide_border=true)-->
+
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaycelab&layout=donut&theme=dark&background=000000&hide_border=true)&nbsp;&nbsp;<a href="https://typingstats.com/profile/jaycelab&ref=badge" target="_top">
   <img src="https://data.typeracer.com/misc/badge?user=jaycelab" border="0" width="125" height="250"  />
   </a>  
- <!--[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaycelab&layout=compact&theme=dark&background=000000&hide_border=true)](https://wakatime.com/@jaycelab)-->
 
 </div>  
 
-<!--### :writing_hand: Blog Posts : TD: updated feed api-->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<!--Current Repo-->
 <br>
 
 <h3 align="center">🥅&nbsp;&nbsp;C U R R E N T&nbsp; P R O J E C T S&nbsp;&nbsp;🥅</h3>
@@ -340,28 +326,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare le
 </td>
 
 </div>
-<!--
-
-
-
-<!--Fourth Row
-<div width="100%" align="center">
-  <a align="center" href="https://github.com/Jaycelab/Food-MERN-App-FE" title="Food App FE">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test&repo=Food-MERN-App-FE&theme=dark&icon_color=FFD700&background=000000&hide_border=true">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a align="center" href="https://github.com/Jaycelab/Food-MERN-App-BE" title="Food App BE">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test&repo=Food-MERN-App-BE&theme=dark&icon_color=FFD700&background=000000&hide_border=true">
-  </a>
-</div>-->
-
-
-<!-- <h4 align="center" >
-<a href="https://github.com/Jaycelab?tab=repositories" color="white" title="Show More" width="125" height="20"  >🔎 SHOW MORE</a>->
- 
-
-<!--
-[![Linkedin Badge](https://img.shields.io/badge/-Connect-blue?style=round&logo=Linkedin&logoColor=white)](mailto:jason.json@hotmail.com)
-<div id="yourLocalCodingG">
-<img src="https://i.ibb.co/7GMbVXH/GQBvslg-WYAAAsw-S.png" width="130" height="55 "/>
-</div>-->
