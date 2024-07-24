@@ -146,7 +146,7 @@ TODO:
  <br>
  
 <div align="center" >  
-  <a align="center" href="https://github.com/Jaycelab/Portfolio" title="Main Portfolio">
+  <a align="center" href="https://github.com/Jaycelab/Portfolio" title="Main Portfolio" width="50%">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test2&repo=Portfolio&theme=dark&icon_color=a91717&background=000000&hide_border=true">
   </a>
 
@@ -177,7 +177,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare le
   <br>
 
 
- <a align="center" href="https://github.com/Jaycelab/Fur-City-Adoption-Express" title="Pet Adoption">
+ <a align="center" href="https://github.com/Jaycelab/Fur-City-Adoption-Express" title="Pet Adoption" width="50%">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test2&repo=Fur-City-Adoption-Express&theme=dark&icon_color=00FF00&background=000000&hide_border=true">
   </a>
   
@@ -214,7 +214,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare le
 
  <br>
 
- <a align="center" href="https://github.com/Jaycelab/Portfolio-2" title="Mini Portfolio">
+ <a align="center" href="https://github.com/Jaycelab/Portfolio-2" title="Mini Portfolio" width="50%">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test&repo=Portfolio-2&theme=dark&icon_color=a91717&background=000000&hide_border=true">
   </a>
  
@@ -241,7 +241,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare le
 
  <br>
  
-  <a align="center" href="https://github.com/Jaycelab/X-MERN-Clone" title="X Clone">
+  <a align="center" href="https://github.com/Jaycelab/X-MERN-Clone" title="X Clone" width="50%">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test&repo=X-MERN-Clone&theme=dark&icon_color=00FF00&background=000000&hide_border=true">
   </a>
  
@@ -280,7 +280,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare le
  <br>
 
 <!--Check background color?. FIX TABLE ROW/DATA************** -->
-  <a align="center" href="https://github.com/Jaycelab/Crypto-Tracker" title="Crypto Tracker">
+  <a align="center" href="https://github.com/Jaycelab/Crypto-Tracker" title="Crypto Tracker" width="50%">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test2&repo=Crypto-Tracker&theme=dark&icon_color=00BFFF&background=000000&hide_border=true">
   </a>
   
@@ -312,7 +312,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare le
 
   <br>
 
-  <a align="center" href="https://github.com/Jaycelab/Quiz-App" title="Quiz-App">
+  <a align="center" href="https://github.com/Jaycelab/Quiz-App" title="Quiz-App" width="50%">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test1&repo=Quiz-App&theme=dark&icon_color=00BFFF&background=000000&hide_border=true">
   </a>
  
