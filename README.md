@@ -135,52 +135,51 @@ TODO:
 
 <h3 align="center">🥅&nbsp;&nbsp;C U R R E N T&nbsp; P R O J E C T S&nbsp;&nbsp;🥅</h3>
 
-<br>
 <!--1st Row-->
 <div align="center">
 <table>
 <tr>
 <td width="50%">
 <div align="center" >  
- 
- <br>
- 
- <h2 align="center" color="white">PROJECT ONE</h2>
-<div align="center" >  
+
+ <h3 align="center">PROJECT ONE</h3>  
   <a align="center" href="https://github.com/Jaycelab/Portfolio" title="Main Portfolio">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test2&repo=Portfolio&theme=dark&icon_color=a91717&background=000000&hide_border=true">
   </a>
 
 <br>
 <br>
- <br>
+<br>
  
 https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90
 
 <br>
-<br>
-<p>
-  <a href="https://github.com" target="_blank">
-  
-<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-    
+
+<div>
 <a href="https://github.com" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
+<img src="https://img.shields.io/badge/-LIVE_DEMO-green?style=for-the-badge&color=A91717"  width="120" height="45"/>
 </a>
-</p>
+</div>
+
+<br>
+
 <p><strong>JavaScript, CSS3, HTML5</strong> - 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare leo eu consequat. Etiam elementum tincidunt bibendum. Integer nec cursus est, luctus mattis lorem.</p>
 </div>
 
+<hr>
+
+<br>
 <br>
 <br>
 
+<!--project end-->
 
 <div align="center" >  
 
   <br>
 
-  <h2 align="center" color="white">PROJECT THREE</h2>
+  <h3 align="center" color="white">PROJECT THREE</h3>
  <a align="center" href="https://github.com/Jaycelab/Fur-City-Adoption-Express" title="Pet Adoption">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test2&repo=Fur-City-Adoption-Express&theme=dark&icon_color=00FF00&background=000000&hide_border=true">
   </a>
