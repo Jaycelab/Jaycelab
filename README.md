@@ -158,7 +158,7 @@ https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90
 
 <h3 align="center" >PROJECT ONE</h3>
 <p>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+<a href="https://github.com/Jaycelab/Portfolio" target="_blank">
 <img src="https://img.shields.io/badge/-LIVE_DEMO-green?style=for-the-badge&color=A91717"  width="125" height="45"/>
 </a>
 </p>
@@ -189,7 +189,7 @@ https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90
 <h3 align="center" >PROJECT THREE</h3>
 <p>
     
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+<a href="https://github.com/Jaycelab/Fur-City-Adoption" target="_blank">
 <img src="https://img.shields.io/badge/-LIVE_DEMO-green?style=for-the-badge&color=A91717"  width="125" height="45"/>
 </a>
 </p>
@@ -225,7 +225,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare le
 https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90  
 <h3 align="center" >PROJECT TWO</h3>
 <p>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+<a href="https://portfolio-2-coral-chi.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/-LIVE_DEMO-green?style=for-the-badge&color=A91717"  width="125" height="45"/>
 </a>
 </p>
@@ -253,7 +253,7 @@ https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90
   
 <h3 align="center" >PROJECT FOUR</h3>
 <p> 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+<a href="https://github.com/Jaycelab/X-MERN-Clone" target="_blank">
 <img src="https://img.shields.io/badge/-LIVE_DEMO-green?style=for-the-badge&color=A91717"  width="125" height="45"/>
 </a>  
 </a>
@@ -291,7 +291,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare le
 https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90
 <h3 align="center" >PROJECT FIVE</h3>
 <p>    
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+<a href="https://crypto-tracker-nine-kappa.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/-LIVE_DEMO-green?style=for-the-badge&color=A91717"  width="125" height="45"/>
 </a> 
 </a>
@@ -322,7 +322,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare le
 
 https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90
 <h3 align="center" >PROJECT SIX</h3>
-<p><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+<p><a href="https://github.com/Jaycelab/Quiz-App" target="_blank">
 <img src="https://img.shields.io/badge/-LIVE_DEMO-green?style=for-the-badge&color=A91717"  width="125" height="45"/>
 </a>
 </p>
