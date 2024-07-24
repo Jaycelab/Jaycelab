@@ -149,6 +149,7 @@ https://github.com/user-attachments/assets/1ba3f314-1806-4c07-8c69-41fd2dad3913
 </a>
 </p>
 <p><strong>Next.js, Tailwind CSS, Framer Motion, Shadcn UI </strong><br> 
+ <br>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare leo eu consequat. Etiam elementum tincidunt bibendum. Integer nec cursus est, luctus mattis lorem.</p>
 
 <br>
@@ -180,6 +181,7 @@ https://github.com/user-attachments/assets/67751664-c2af-4a7e-8fa1-c91f38503533
 </a>
 </p>
 <p><strong>React.js, Express.js, MongoDB</strong><br> 
+ <br>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare leo eu consequat. Etiam elementum tincidunt bibendum. Integer nec cursus est, luctus mattis lorem.</p>
 
 <br>
@@ -217,6 +219,7 @@ https://github.com/user-attachments/assets/f18935ea-d692-4f44-9eca-c1f995ec2a7c
 </a>
 </p>
 <p><strong>Next.js, Tailwind CSS, TypeScript, Framer Motion</strong><br> 
+ <br>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare leo eu consequat. Etiam elementum tincidunt bibendum. Integer nec cursus est, luctus mattis lorem.</p>
 
 <br>
@@ -246,6 +249,7 @@ https://github.com/user-attachments/assets/71f6c771-8b17-40ce-8acb-11e243dbc8c5
 </a>
 </p>
 <p><strong>React.js, Tailwind CSS, Daisy UI</strong><br> 
+ <br>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare leo eu consequat. Etiam elementum tincidunt bibendum. Integer nec cursus est, luctus mattis lorem.</p>
 
 <br>
@@ -285,6 +289,7 @@ https://github.com/user-attachments/assets/f0f50d9e-81cc-4d3b-8a60-6d63449a5389
 </a>
 </p>
 <p><strong>React.js, CoinGecko API</strong><br> 
+ <br>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare leo eu consequat. Etiam elementum tincidunt bibendum. Integer nec cursus est, luctus mattis lorem.</p>
 
 <br>
@@ -314,6 +319,7 @@ https://github.com/user-attachments/assets/662c32ea-9f4c-4cd8-8e5a-746436cebc08
 </a>
 </p>
 <p><strong>React.js, Quotable API</strong><br>  
+ <br>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare leo eu consequat. Etiam elementum tincidunt bibendum. Integer nec cursus est, luctus mattis lorem.</p>
 
 <br>
