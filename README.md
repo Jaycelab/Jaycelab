@@ -164,7 +164,7 @@ https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90
 <img src="https://img.shields.io/badge/-LIVE_DEMO-green?style=for-the-badge&color=A91717"  width="125" height="45"/>
 </a>
 </p>
-<p><strong>JavaScript, CSS3, HTML5</strong> - 
+<p><strong>Next.js, Tailwind CSS, Framer Motion</strong><br> 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare leo eu consequat. Etiam elementum tincidunt bibendum. Integer nec cursus est, luctus mattis lorem.</p>
 
 <br>
@@ -199,7 +199,7 @@ https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90
 <img src="https://img.shields.io/badge/-LIVE_DEMO-green?style=for-the-badge&color=A91717"  width="125" height="45"/>
 </a>
 </p>
-<p><strong>React, Flask, Socketio</strong> - 
+<p><strong>React.JS, Express.JS, MongoDB</strong><br> 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare leo eu consequat. Etiam elementum tincidunt bibendum. Integer nec cursus est, luctus mattis lorem.</p>
 
 <br>
@@ -238,7 +238,7 @@ https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90
 <img src="https://img.shields.io/badge/-LIVE_DEMO-green?style=for-the-badge&color=A91717"  width="125" height="45"/>
 </a>
 </p>
-<p><strong>JavaScript, HTML5, CSS3</strong> - 
+<p><strong>Next.JS, Tailwind CSS, Typescript, Framer Motion</strong><br> 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare leo eu consequat. Etiam elementum tincidunt bibendum. Integer nec cursus est, luctus mattis lorem.</p>
 
 <br>
@@ -273,7 +273,7 @@ https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90
 </a>  
 </a>
 </p>
-<p><strong>JavaScript, HTML5, CSS3</strong> - 
+<p><strong>ReactJS, TailwindCSS, DaisyUI</strong><br> 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare leo eu consequat. Etiam elementum tincidunt bibendum. Integer nec cursus est, luctus mattis lorem.</p>
 
 <br>
@@ -315,7 +315,7 @@ https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90
 </a> 
 </a>
 </p>
-<p><strong>JavaScript, CSS3, HTML5</strong> - 
+<p><strong>ReactJS, CoinGecko API</strong><br> 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare leo eu consequat. Etiam elementum tincidunt bibendum. Integer nec cursus est, luctus mattis lorem.</p>
 
 <br>
@@ -349,7 +349,7 @@ https://github.com/user-attachments/assets/2d260b4b-3433-4355-aa55-c4402c005c90
 <img src="https://img.shields.io/badge/-LIVE_DEMO-green?style=for-the-badge&color=A91717"  width="125" height="45"/>
 </a>
 </p>
-<p><strong>JavaScript, HTML5, CSS3</strong> - 
+<p><strong>Vanila Javascript</strong><br>  
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare leo eu consequat. Etiam elementum tincidunt bibendum. Integer nec cursus est, luctus mattis lorem.</p>
 
 <br>
