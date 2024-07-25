@@ -146,9 +146,9 @@ https://github.com/user-attachments/assets/1ba3f314-1806-4c07-8c69-41fd2dad3913
 <img src="https://img.shields.io/badge/-LIVE_DEMO-green?style=for-the-badge&color=A91717"  width="125" height="40"/>
 </a>
 </p>
-<p><strong>Next.js, Tailwind CSS, Framer Motion, Shadcn UI </strong><br> 
+<p><strong>Next.js, Tailwind CSS, Framer Motion, Magic UI </strong><br> 
  <br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare leo eu consequat. Etiam elementum tincidunt bibendum. Integer nec cursus est, luctus mattis lorem.</p>
+My main portfolio created using Next.js and styled with Tailwind CSS along with Framer Motion/Magic UI for animations. Pages are set up to display my current projects and skills. Still a work in progress</p>
 
 <br>
 <hr>
@@ -218,7 +218,7 @@ https://github.com/user-attachments/assets/f18935ea-d692-4f44-9eca-c1f995ec2a7c
 </p>
 <p><strong>Next.js, Tailwind CSS, TypeScript, Framer Motion</strong><br> 
  <br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare leo eu consequat. Etiam elementum tincidunt bibendum. Integer nec cursus est, luctus mattis lorem.</p>
+A single page application portfolio created with Next.js and TypeScript. Styled with Taildwind CSS and Framer motion for animations. Still a work in progress</p>
 
 <br>
 <hr>
