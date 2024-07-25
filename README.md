@@ -180,7 +180,7 @@ https://github.com/user-attachments/assets/67751664-c2af-4a7e-8fa1-c91f38503533
 </p>
 <p><strong>React.js, Express.js, MongoDB</strong><br> 
  <br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare leo eu consequat. Etiam elementum tincidunt bibendum. Integer nec cursus est, luctus mattis lorem.</p>
+A pet adoption app created using MERN stack with features that enables users to upload their own photos and pet description via Netlify. Users are also able to create their own login information and edit pets throughout the entire website</p>
 
 <br>
 <hr>
@@ -248,7 +248,7 @@ https://github.com/user-attachments/assets/71f6c771-8b17-40ce-8acb-11e243dbc8c5
 </p>
 <p><strong>React.js, Tailwind CSS, Daisy UI</strong><br> 
  <br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare leo eu consequat. Etiam elementum tincidunt bibendum. Integer nec cursus est, luctus mattis lorem.</p>
+A X (Twitter) clone dedicated to strictly cats and dogs! UI was created mostly from Daisy UI components and styled with Tailwind CSS. Still a work in progress! </p>
 
 <br>
 <hr>
@@ -288,7 +288,7 @@ https://github.com/user-attachments/assets/f0f50d9e-81cc-4d3b-8a60-6d63449a5389
 </p>
 <p><strong>React.js, CoinGecko API</strong><br> 
  <br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare leo eu consequat. Etiam elementum tincidunt bibendum. Integer nec cursus est, luctus mattis lorem.</p>
+Crypto tracker app to display the top 20 ranking crypto coins with live pricing via Coingecko API. Have plans to implement more features including technical analysis and charting tips </p>
 
 <br>
 
@@ -320,7 +320,7 @@ https://github.com/user-attachments/assets/662c32ea-9f4c-4cd8-8e5a-746436cebc08
 </p>
 <p><strong>React.js, Quotable API</strong><br>  
  <br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ornare leo eu consequat. Etiam elementum tincidunt bibendum. Integer nec cursus est, luctus mattis lorem.</p>
+A quotes generator app created using React.js with random quotes being accessed through quotable API. Users are able to mark their favorite quotes and access them later (via local storage) to visit again or delete. Still a  work in progress</p>
 
 <br>
 
