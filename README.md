@@ -147,7 +147,7 @@ https://github.com/user-attachments/assets/1ba3f314-1806-4c07-8c69-41fd2dad3913
 </a>
 </p>
 <p><strong>Next.js, Tailwind CSS, Framer Motion, Magic UI </strong></p><br> 
-<p>My main portfolio created using Next.js and styled with Tailwind CSS along with Framer Motion/Magic UI for animations.  </p>
+<p>My main portfolio created using Next.js and styled with Tailwind CSS along with Framer Motion/Magic UI for animations.Still a work in progress</p>
 
 <br>
 <hr>
@@ -214,8 +214,7 @@ https://github.com/user-attachments/assets/f18935ea-d692-4f44-9eca-c1f995ec2a7c
 <img src="https://img.shields.io/badge/-LIVE_DEMO-green?style=for-the-badge&color=A91717"  width="125" height="40"/>
 </a>
 </p>
-<p><strong>Next.js, Tailwind CSS, TypeScript, Framer Motion</strong></p>
-<br> 
+<p><strong>Next.js, Tailwind CSS, TypeScript, Framer Motion</strong></p><br> 
 <p>A single page application portfolio created with Next.js and TypeScript. Styled with Taildwind CSS and Framer motion for animations. Still a work in progress</p>
 
 <br>
@@ -244,8 +243,7 @@ https://github.com/user-attachments/assets/71f6c771-8b17-40ce-8acb-11e243dbc8c5
 </a>  
 </a>
 </p>
-<p><strong>React.js, Tailwind CSS, Daisy UI</strong></p></p>
-<br> 
+<p><strong>React.js, Tailwind CSS, Daisy UI</strong></p></p><br> 
 <p>A X (Twitter) clone dedicated to strictly cats and dogs! UI was created mostly from Daisy UI components and styled with Tailwind CSS. Still a work in progress!</p>
 
 <br>
@@ -284,8 +282,7 @@ https://github.com/user-attachments/assets/f0f50d9e-81cc-4d3b-8a60-6d63449a5389
 </a> 
 </a>
 </p>
-<p><strong>React.js, CoinGecko API</strong></p>
-<br> 
+<p><strong>React.js, CoinGecko API</strong></p><br> 
 <p>Crypto tracker app to display the top 20 ranking crypto coins with live pricing via Coingecko API. Have plans to implement more features including technical analysis and charting tips</p>
 
 <br>
