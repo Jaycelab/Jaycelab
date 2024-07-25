@@ -1,12 +1,10 @@
 <!--
 ************************************ 
 TODO: 
-- gh action or yml config to set a tags to open in new window******
-- fix row 5 & 6 table row/data tags. background color not matching
-- table layout in mobile view
-- update code/website linkd
+- gh action or yml config to set a tags to open in new window***
+- fix row 5 & 6 table row/data tags. background color not matching***
+- table layout in mobile view***
 - update project description summary
-- upload project videos
 - check for duplicate , unclosed tags
 
 *******************************
