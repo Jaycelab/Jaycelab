@@ -292,8 +292,6 @@ https://github.com/user-attachments/assets/f0f50d9e-81cc-4d3b-8a60-6d63449a5389
 
 
 </div>
-
-<br>
 <br>
 
 <td width="50%">
@@ -324,8 +322,6 @@ https://github.com/user-attachments/assets/662c32ea-9f4c-4cd8-8e5a-746436cebc08
 
 
 </div>
-
-<br>
 <br>
 
 </td>
