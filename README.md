@@ -149,7 +149,7 @@ https://github.com/user-attachments/assets/1ba3f314-1806-4c07-8c69-41fd2dad3913
 <p><strong>Next.js, Tailwind CSS, Framer Motion, Magic UI </strong></p>
 <br> 
 <br>
-<p>My main portfolio created using Next.js and styled with Tailwind CSS along with Framer Motion/Magic UI for animations. Pages are set up to display my current projects and skills. </p>
+<p>My main portfolio created using Next.js and styled with Tailwind CSS along with Framer Motion/Magic UI for animations.  </p>
 
 <br>
 <hr>
@@ -182,7 +182,7 @@ https://github.com/user-attachments/assets/67751664-c2af-4a7e-8fa1-c91f38503533
 <p><strong>React.js, Express.js, MongoDB</strong></p>
 <br> 
 <br>
-<p>A pet adoption app created using MERN stack with features that enables users to upload their own photos and pet description via Netlify. Users are also able to create their own login information and edit pets/p>
+<p>A pet adoption app created using MERN stack that enables users to upload their own photos  via Netlify. Users are also able to create their own login information and edit pets</p>
 
 <br>
 <hr>
@@ -326,7 +326,7 @@ https://github.com/user-attachments/assets/662c32ea-9f4c-4cd8-8e5a-746436cebc08
 <p><strong>React.js, Quotable API</strong></p>
 <br>  
 <br>
-<p>A quotes generator app created using React.js with random quotes being accessed through quotable API. Users are able to mark their favorite quotes and access them laterto visit again or delete./p>
+<p>A quotes generator app created using React.js with quotes being accessed through quotable API. Users are able to mark their favorite quotes for easy accessibility.</p>
 
 <br>
 
