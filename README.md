@@ -121,12 +121,9 @@ TODO:
 <h3 align="center">🥅&nbsp;&nbsp;C U R R E N T&nbsp; P R O J E C T S&nbsp;&nbsp;🥅</h3>
 
 <br>
-<!--1st Row-->
 
-<!--TABLE START
+<!--*********OPTION #1**********-->
 
-responsive issues via mobile,tablet view. 
--->
 <div align="center">
 <table>
 <tr>
@@ -261,6 +258,8 @@ https://github.com/user-attachments/assets/71f6c771-8b17-40ce-8acb-11e243dbc8c5
 <br>
 
 <!--TABLE END -->
+
+<!--*********OPTION #2**********-->
 
 <!--New table row and data.
 Reponsiveness OK, however does not have a clear background?-->
