@@ -142,7 +142,10 @@ TODO:
 
 <h3 align="center" >MAIN PORTFOLIO</h3>
 
-https://github.com/user-attachments/assets/1ba3f314-1806-4c07-8c69-41fd2dad3913
+<center>
+ <video src="https://github.com/user-attachments/assets/1ba3f314-1806-4c07-8c69-41fd2dad3913" width="120" height="40" controls></video>
+</center>
+
 
 <p>
 <a href="https://portfolio-mu-drab-93.vercel.app/" target="_blank">
@@ -151,6 +154,8 @@ https://github.com/user-attachments/assets/1ba3f314-1806-4c07-8c69-41fd2dad3913
 </p>
 <p><strong>Next.js, Tailwind CSS, Framer Motion, Magic UI </strong></p><br> 
 <p>My main portfolio created using Next.js and styled with Tailwind CSS along with Framer Motion/Magic UI for animations. Still a work in progress</p>
+</td>
+</div>
 
 <br>
 <hr>
@@ -159,6 +164,7 @@ https://github.com/user-attachments/assets/1ba3f314-1806-4c07-8c69-41fd2dad3913
 
 </div>
 
+<tr>
 <div align="center" >  
 
  <br>
@@ -195,7 +201,7 @@ https://github.com/user-attachments/assets/67751664-c2af-4a7e-8fa1-c91f38503533
 </td>
 
 
-
+<tr >
 <td width="50%">
 <div align="center" >  
 
@@ -225,6 +231,7 @@ https://github.com/user-attachments/assets/f18935ea-d692-4f44-9eca-c1f995ec2a7c
 
 </div>
 
+<tr>
 <div align="center" >  
 
  <br>
@@ -301,6 +308,7 @@ https://github.com/user-attachments/assets/f0f50d9e-81cc-4d3b-8a60-6d63449a5389
 <br>
 
 <!--Table Start-->
+<tr>
 <td width="50%">
 <div align="center" >  
 
