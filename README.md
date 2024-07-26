@@ -6,6 +6,7 @@ TODO:
 - table layout in mobile view***
 - update project description summary
 - check for duplicate , unclosed tags
+- create row branch to display all projects to rows for comparison
 
 *******************************
 -->
@@ -121,6 +122,11 @@ TODO:
 
 <br>
 <!--1st Row-->
+
+<!--TABLE START
+
+responsive issues via mobile,tablet view. 
+-->
 <div align="center">
 <table>
 <tr>
@@ -254,20 +260,25 @@ https://github.com/user-attachments/assets/71f6c771-8b17-40ce-8acb-11e243dbc8c5
 <br>
 <br>
 
+<!--TABLE END -->
+
+<!--New table row and data.
+Reponsiveness OK, however does not have a clear background?-->
+
+<!--Container Start-->
 <div align="center">
-
-
-
+<!--Table Row-->
 <tr>
 <td width="50%">
+ 
+<!--Project Start-->
 <div align="center" >  
 
- <br>
+<br>
 
-<!--Check background color?. FIX TABLE ROW/DATA************** -->
-  <a align="center" href="https://github.com/Jaycelab/Crypto-Tracker" title="Crypto Tracker" width="50%">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test2&repo=Crypto-Tracker&theme=dark&icon_color=00BFFF&background=000000&hide_border=true">
-  </a>
+<a align="center" href="https://github.com/Jaycelab/Crypto-Tracker" title="Crypto Tracker" width="50%">
+<img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test2&repo=Crypto-Tracker&theme=dark&icon_color=00BFFF&background=000000&hide_border=true">
+</a>
   
 <br>
 <br>
@@ -280,25 +291,25 @@ https://github.com/user-attachments/assets/f0f50d9e-81cc-4d3b-8a60-6d63449a5389
 <a href="https://crypto-tracker-nine-kappa.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/-LIVE_DEMO-green?style=for-the-badge&color=A91717"  width="125" height="40"/>
 </a> 
-</a>
 </p>
 <p><strong>React.js, CoinGecko API</strong></p><br> 
 <p>Crypto tracker app to display the top 20 ranking crypto coins with live pricing via Coingecko API. Have plans to implement more features including technical analysis and charting tips.</p>
-
+<!--Project End>
 <br>
-
 
 </div>
+<!--Container End-->
 <br>
 
+<!--Table Start-->
 <td width="50%">
 <div align="center" >  
 
-  <br>
+<br>
 
-  <a align="center" href="https://github.com/Jaycelab/Quotes-App" title="Quotes-App" width="50%">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test2&repo=Quotes-App&theme=dark&icon_color=00BFFF&background=000000&hide_border=true">
-  </a>
+<a align="center" href="https://github.com/Jaycelab/Quotes-App" title="Quotes-App" width="50%">
+<img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test2&repo=Quotes-App&theme=dark&icon_color=00BFFF&background=000000&hide_border=true">
+</a>
  
 <br>
 <br>
@@ -307,20 +318,19 @@ https://github.com/user-attachments/assets/f0f50d9e-81cc-4d3b-8a60-6d63449a5389
 
 https://github.com/user-attachments/assets/662c32ea-9f4c-4cd8-8e5a-746436cebc08
 
-<p><a href="https://jaycelab.github.io/Quotes-App/" target="_blank">
+<p>
+<a href="https://jaycelab.github.io/Quotes-App/" target="_blank">
 <img src="https://img.shields.io/badge/-LIVE_DEMO-green?style=for-the-badge&color=A91717"  width="125" height="40"/>
 </a>
 </p>
-<p><strong>React.js, Quotable API</strong></p>
-<br>  
+<p><strong>React.js, Quotable API</strong></p><br>  
 <p>A quotes generator app created using React.js with quotes being accessed through quotable API. Users are able to mark their favorite quotes for easy accessibility.</p>
-
+<!--Project End>
 <br>
 
-
 </div>
+<!--Container End-->
 <br>
 
 </td>
-
-</div>
+<!--End Table Data-->
