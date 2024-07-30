@@ -134,7 +134,7 @@ TODO:
  
 <div align="center" >  
   <a align="center" href="https://github.com/Jaycelab/Portfolio" title="Main Portfolio" width="50%">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test2&repo=Portfolio&theme=dark&icon_color=a91717&background=000000&hide_border=true">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test1&repo=Portfolio&theme=dark&icon_color=a91717&background=000000&hide_border=true">
   </a>
 
 <br>
@@ -164,7 +164,7 @@ https://github.com/user-attachments/assets/1ba3f314-1806-4c07-8c69-41fd2dad3913
  <br>
 
  <a align="center" href="https://github.com/Jaycelab/Fur-City-Adoption-Express" title="Pet Adoption" width="50%">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test2&repo=Fur-City-Adoption-Express&theme=dark&icon_color=00FF00&background=000000&hide_border=true">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test1&repo=Fur-City-Adoption-Express&theme=dark&icon_color=00FF00&background=000000&hide_border=true">
   </a>
   
 <br>
@@ -202,7 +202,7 @@ https://github.com/user-attachments/assets/67751664-c2af-4a7e-8fa1-c91f38503533
  <br>
 
  <a align="center" href="https://github.com/Jaycelab/Portfolio-2" title="Mini Portfolio" width="50%">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test&repo=Portfolio-2&theme=dark&icon_color=a91717&background=000000&hide_border=true">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test1&repo=Portfolio-2&theme=dark&icon_color=a91717&background=000000&hide_border=true">
   </a>
  
 <br>
@@ -230,7 +230,7 @@ https://github.com/user-attachments/assets/f18935ea-d692-4f44-9eca-c1f995ec2a7c
  <br>
  
   <a align="center" href="https://github.com/Jaycelab/X-MERN-Clone" title="X Clone" width="50%">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test&repo=X-MERN-Clone&theme=dark&icon_color=00FF00&background=000000&hide_border=true">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test1&repo=X-MERN-Clone&theme=dark&icon_color=00FF00&background=000000&hide_border=true">
   </a>
  
 <br>
@@ -276,7 +276,7 @@ Reponsiveness OK, however does not have a clear background?-->
 <br>
 
 <a align="center" href="https://github.com/Jaycelab/Crypto-Tracker" title="Crypto Tracker" width="50%">
-<img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test2&repo=Crypto-Tracker&theme=dark&icon_color=00BFFF&background=000000&hide_border=true">
+<img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test1&repo=Crypto-Tracker&theme=dark&icon_color=00BFFF&background=000000&hide_border=true">
 </a>
   
 <br>
@@ -307,7 +307,7 @@ https://github.com/user-attachments/assets/f0f50d9e-81cc-4d3b-8a60-6d63449a5389
 <br>
 
 <a align="center" href="https://github.com/Jaycelab/Quotes-App" title="Quotes-App" width="50%">
-<img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test2&repo=Quotes-App&theme=dark&icon_color=00BFFF&background=000000&hide_border=true">
+<img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test1&repo=Quotes-App&theme=dark&icon_color=00BFFF&background=000000&hide_border=true">
 </a>
  
 <br>
