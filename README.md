@@ -110,7 +110,7 @@ TODO:
 
   ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaycelab&theme=dark&background=000000&hide_border=true)&nbsp;
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaycelab&layout=donut&theme=dark&background=000000&hide_border=true)&nbsp;&nbsp;<a href="https://typingstats.com/profile/jaycelab&ref=badge" target="_top">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaycelab&layout=donut&theme=dark&background=000000&hide_border=true&langs_count=10)&nbsp;&nbsp;<a href="https://typingstats.com/profile/jaycelab&ref=badge" target="_top">
   <img src="https://data.typeracer.com/misc/badge?user=jaycelab" border="0" width="125" height="250"  />
   </a>  
 
@@ -138,9 +138,9 @@ TODO:
   </a>
 
 <br>
-<br>
 
 <h3 align="center" >MAIN PORTFOLIO</h3>
+<br>
 
 https://github.com/user-attachments/assets/1ba3f314-1806-4c07-8c69-41fd2dad3913
 
@@ -150,7 +150,7 @@ https://github.com/user-attachments/assets/1ba3f314-1806-4c07-8c69-41fd2dad3913
 </a>
 </p>
 <p><strong>Next.js, Tailwind CSS, Framer Motion, Magic UI </strong></p><br> 
-<p>My main portfolio created using Next.js and styled with Tailwind CSS along with Framer Motion/Magic UI for animations. Still a work in progress</p>
+<p> <i>My main portfolio created using Next.js and styled with Tailwind CSS along with Framer Motion/Magic UI for animations. Currently working on projects and contact section </i></p>
 
 <br>
 <hr>
@@ -168,9 +168,9 @@ https://github.com/user-attachments/assets/1ba3f314-1806-4c07-8c69-41fd2dad3913
   </a>
   
 <br>
-<br>
 
 <h3 align="center" >PET ADOPTION APP</h3>
+<br>
 
 https://github.com/user-attachments/assets/67751664-c2af-4a7e-8fa1-c91f38503533
 
@@ -181,7 +181,7 @@ https://github.com/user-attachments/assets/67751664-c2af-4a7e-8fa1-c91f38503533
 </a>
 </p>
 <p><strong>React.js, Express.js, MongoDB</strong></p><br> 
-<p>A pet adoption app created using MERN stack that enables users to upload their own photos via Cloudinary. Users are also able to create their own login information and edit pets.</p>
+<p><i>A pet adoption app created using MERN stack that enables users to upload their own photos via Cloudinary. Users are also able to create their own login information and edit pets.</i></p>
 
 <br>
 <hr>
@@ -206,9 +206,9 @@ https://github.com/user-attachments/assets/67751664-c2af-4a7e-8fa1-c91f38503533
   </a>
  
 <br>
-<br>
 
 <h3 align="center" >SPA PORTFOLIO</h3>
+<br>
 
 https://github.com/user-attachments/assets/f18935ea-d692-4f44-9eca-c1f995ec2a7c
 
@@ -218,7 +218,7 @@ https://github.com/user-attachments/assets/f18935ea-d692-4f44-9eca-c1f995ec2a7c
 </a>
 </p>
 <p><strong>Next.js, Tailwind CSS, TypeScript, Framer Motion</strong></p><br> 
-<p>A single page application portfolio created with Next.js and TypeScript. Styled with Tailwind CSS and Framer motion for animations. Still a work in progress.</p>
+<p> <i>A single page application portfolio created with Next.js and TypeScript. Styled with Tailwind CSS and Framer motion for animations. Still a work in progress. </i></p>
 
 <br>
 <hr>
@@ -234,9 +234,9 @@ https://github.com/user-attachments/assets/f18935ea-d692-4f44-9eca-c1f995ec2a7c
   </a>
  
 <br>
-<br>
 
 <h3 align="center" >TWITTER CLONE</h3>
+<br>
 
 https://github.com/user-attachments/assets/71f6c771-8b17-40ce-8acb-11e243dbc8c5
 
@@ -247,7 +247,7 @@ https://github.com/user-attachments/assets/71f6c771-8b17-40ce-8acb-11e243dbc8c5
 </a>
 </p>
 <p><strong>React.js, Tailwind CSS, Daisy UI</strong></p></p><br> 
-<p>A X (Twitter) clone dedicated to strictly cats and dogs! UI was created mostly from Daisy UI components and styled with Tailwind CSS. Still a work in progress!</p>
+<p> <i>A X (Twitter) clone dedicated to strictly cats and dogs! UI was created mostly from Daisy UI components and styled with Tailwind CSS. Still a work in progress! </i></p>
 
 <br>
 <hr>
@@ -280,9 +280,9 @@ Reponsiveness OK, however does not have a clear background?-->
 </a>
   
 <br>
-<br>
 
 <h3 align="center" >CRYPTO PRICE TRACKER</h3>
+<br>
 
 https://github.com/user-attachments/assets/f0f50d9e-81cc-4d3b-8a60-6d63449a5389
 
@@ -292,7 +292,7 @@ https://github.com/user-attachments/assets/f0f50d9e-81cc-4d3b-8a60-6d63449a5389
 </a> 
 </p>
 <p><strong>React.js, CoinGecko API</strong></p><br> 
-<p>Crypto tracker app to display the top 20 ranking crypto coins with live pricing via Coingecko API. Have plans to implement more features including technical analysis and charting tips.</p>
+<p> <i>Crypto tracker app to display the top 20 ranking crypto coins with live pricing via Coingecko API. Have plans to implement more features including technical analysis and charting tips. </i></p>
 <!--Project End>
 <br>
 
@@ -312,9 +312,9 @@ https://github.com/user-attachments/assets/f0f50d9e-81cc-4d3b-8a60-6d63449a5389
 </a>
  
 <br>
-<br>
 
 <h3 align="center" >QUOTES GENERATOR APP</h3>
+<br>
 
 https://github.com/user-attachments/assets/662c32ea-9f4c-4cd8-8e5a-746436cebc08
 
@@ -324,7 +324,7 @@ https://github.com/user-attachments/assets/662c32ea-9f4c-4cd8-8e5a-746436cebc08
 </a>
 </p>
 <p><strong>React.js, Quotable API</strong></p><br>  
-<p>A quotes generator app created using React.js with quotes being accessed through quotable API. Users are able to mark their favorite quotes for easy accessibility.</p>
+<p> <i>A quotes generator app created using React.js with quotes being accessed through quotable API. Users are able to mark their favorite quotes for easy accessibility. </i></p>
 <!--Project End>
 <br>
 
