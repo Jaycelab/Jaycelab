@@ -181,7 +181,7 @@ https://github.com/user-attachments/assets/67751664-c2af-4a7e-8fa1-c91f38503533
 </a>
 </p>
 <p><strong>React.js, Express.js, MongoDB</strong></p><br> 
-<p>A pet adoption app created using MERN stack that enables users to upload their own photos via Netlify. Users are also able to create their own login information and edit pets.</p>
+<p>A pet adoption app created using MERN stack that enables users to upload their own photos via Cloudinary. Users are also able to create their own login information and edit pets.</p>
 
 <br>
 <hr>
@@ -299,6 +299,7 @@ https://github.com/user-attachments/assets/f0f50d9e-81cc-4d3b-8a60-6d63449a5389
 </div>
 <!--Container End-->
 <br>
+<br>
 
 <!--Table Start-->
 <td width="50%">
@@ -329,6 +330,7 @@ https://github.com/user-attachments/assets/662c32ea-9f4c-4cd8-8e5a-746436cebc08
 
 </div>
 <!--Container End-->
+<br>
 <br>
 
 </td>
