@@ -140,7 +140,7 @@ TODO:
 <br>
 <br>
 
-<h3 align="center" >MAIN PORTFOLIO</h3>
+
 
 https://github.com/user-attachments/assets/1ba3f314-1806-4c07-8c69-41fd2dad3913
 
@@ -170,7 +170,7 @@ https://github.com/user-attachments/assets/1ba3f314-1806-4c07-8c69-41fd2dad3913
 <br>
 <br>
 
-<h3 align="center" >PET ADOPTION APP</h3>
+
 
 https://github.com/user-attachments/assets/67751664-c2af-4a7e-8fa1-c91f38503533
 
@@ -208,7 +208,7 @@ https://github.com/user-attachments/assets/67751664-c2af-4a7e-8fa1-c91f38503533
 <br>
 <br>
 
-<h3 align="center" >SPA PORTFOLIO</h3>
+
 
 https://github.com/user-attachments/assets/f18935ea-d692-4f44-9eca-c1f995ec2a7c
 
@@ -236,7 +236,7 @@ https://github.com/user-attachments/assets/f18935ea-d692-4f44-9eca-c1f995ec2a7c
 <br>
 <br>
 
-<h3 align="center" >TWITTER CLONE</h3>
+
 
 https://github.com/user-attachments/assets/71f6c771-8b17-40ce-8acb-11e243dbc8c5
 
@@ -282,7 +282,7 @@ Reponsiveness OK, however does not have a clear background?-->
 <br>
 <br>
 
-<h3 align="center" >CRYPTO PRICE TRACKER</h3>
+
 
 https://github.com/user-attachments/assets/f0f50d9e-81cc-4d3b-8a60-6d63449a5389
 
@@ -313,7 +313,6 @@ https://github.com/user-attachments/assets/f0f50d9e-81cc-4d3b-8a60-6d63449a5389
 <br>
 <br>
 
-<h3 align="center" >QUOTES GENERATOR APP</h3>
 
 https://github.com/user-attachments/assets/662c32ea-9f4c-4cd8-8e5a-746436cebc08
 
