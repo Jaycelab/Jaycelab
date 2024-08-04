@@ -131,6 +131,7 @@ TODO:
 <div align="center" >  
  
  <br>
+  <br>
  
 <div align="center" >  
   <a align="center" href="https://github.com/Jaycelab/Portfolio" title="Main Portfolio" width="50%">
@@ -138,6 +139,7 @@ TODO:
   </a>
 
 <br>
+
 
 <h3 align="center" >MAIN PORTFOLIO</h3>
 <br>
@@ -200,6 +202,7 @@ https://github.com/user-attachments/assets/67751664-c2af-4a7e-8fa1-c91f38503533
 <div align="center" >  
 
  <br>
+  <br>
 
  <a align="center" href="https://github.com/Jaycelab/Portfolio-2" title="Mini Portfolio" width="50%">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test1&repo=Portfolio-2&theme=dark&icon_color=a91717&background=000000&hide_border=true">
@@ -274,6 +277,7 @@ Reponsiveness OK, however does not have a clear background?-->
 <div align="center" >  
 
 <br>
+ <br>
 
 <a align="center" href="https://github.com/Jaycelab/Crypto-Tracker" title="Crypto Tracker" width="50%">
 <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test1&repo=Crypto-Tracker&theme=dark&icon_color=00BFFF&background=000000&hide_border=true">
@@ -306,6 +310,7 @@ https://github.com/user-attachments/assets/f0f50d9e-81cc-4d3b-8a60-6d63449a5389
 <div align="center" >  
 
 <br>
+ <br>
 
 <a align="center" href="https://github.com/Jaycelab/Quotes-App" title="Quotes-App" width="50%">
 <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test1&repo=Quotes-App&theme=dark&icon_color=00BFFF&background=000000&hide_border=true">
