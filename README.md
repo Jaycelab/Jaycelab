@@ -312,8 +312,8 @@ https://github.com/user-attachments/assets/f0f50d9e-81cc-4d3b-8a60-6d63449a5389
 <br>
  <br>
 
-<a align="center" href="https://github.com/Jaycelab/Quotes-App" title="Quotes-App" width="50%">
-<img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test1&repo=Quotes-App&theme=dark&icon_color=00BFFF&background=000000&hide_border=true">
+<a align="center" href="https://github.com/Jaycelab/Quotes-Generator" title="Quotes-App" width="50%">
+<img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test1&repo=Quotes-Generator&theme=dark&icon_color=00BFFF&background=000000&hide_border=true">
 </a>
  
 <br>
@@ -324,7 +324,7 @@ https://github.com/user-attachments/assets/f0f50d9e-81cc-4d3b-8a60-6d63449a5389
 https://github.com/user-attachments/assets/662c32ea-9f4c-4cd8-8e5a-746436cebc08
 
 <p>
-<a href="https://jaycelab.github.io/Quotes-App/" target="_blank">
+<a href="https://jaycelab.github.io/Quotes-Generator/" target="_blank">
 <img src="https://img.shields.io/badge/-LIVE_DEMO-green?style=for-the-badge&color=A91717"  width="125" height="40"/>
 </a>
 </p>
