@@ -250,7 +250,7 @@ https://github.com/user-attachments/assets/71f6c771-8b17-40ce-8acb-11e243dbc8c5
 </a>
 </p>
 <p><strong>React.js, Tailwind CSS, Daisy UI</strong></p></p>
-<p> <i>A X (Twitter) clone dedicated to strictly cats and dogs! UI was created mostly from Daisy UI components and styled with Tailwind CSS. Still a work in progress! </i></p>
+<p> <i>A X (Twitter) clone dedicated to strictly cats and dogs! UI was created mostly from Daisy UI components and styled with Tailwind CSS. Currently still a work in progress! </i></p>
 
 <br>
 <hr>
@@ -296,7 +296,7 @@ https://github.com/user-attachments/assets/f0f50d9e-81cc-4d3b-8a60-6d63449a5389
 </a> 
 </p>
 <p><strong>React.js, CoinGecko API</strong></p>
-<p> <i>Crypto tracker app to display the top 20 ranking crypto coins with live pricing via Coingecko API. Have plans to implement more features including technical analysis and charting tips. </i></p>
+<p> <i>Crypto tracker app to display the top 20 ranking coins (marketcap) with live pricing via Coingecko API with plans to implement more features including technical analysis and charting tips. </i></p>
 <!--Project End>
 <br>
 
@@ -329,7 +329,7 @@ https://github.com/user-attachments/assets/662c32ea-9f4c-4cd8-8e5a-746436cebc08
 </a>
 </p>
 <p><strong>React.js, Quotable API</strong></p>
-<p> <i>A quotes generator app created using React.js with quotes being accessed through quotable API. Users are able to mark their favorite quotes for easy accessibility. </i></p>
+<p> <i>A quotes generator app created using React.js with quotes being accessed through Quotable API. Users are able to set their favorite quotes along with delete for easy accessibility. </i></p>
 <!--Project End>
 <br>
 
