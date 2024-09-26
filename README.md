@@ -312,7 +312,7 @@ https://github.com/user-attachments/assets/f0f50d9e-81cc-4d3b-8a60-6d63449a5389
 <br>
  <br>
 
-<a align="center" href="https://github.com/Jaycelab/Quotes-Generator" title="Quotes-App" width="50%">
+<a align="center" href="https://github.com/Jaycelab/Quotes-App" title="Quotes-App" width="50%">
 <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test1&repo=Quotes-Generator&theme=dark&icon_color=00BFFF&background=000000&hide_border=true">
 </a>
  
