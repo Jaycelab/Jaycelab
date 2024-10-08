@@ -296,7 +296,7 @@ https://github.com/user-attachments/assets/f0f50d9e-81cc-4d3b-8a60-6d63449a5389
 </a> 
 </p>
 <p><strong>React.js, CoinGecko API</strong></p>
-<p> <i>Crypto tracker app to display the top 20 ranking coins (marketcap) with live pricing via Coingecko API with plans to implement more features including technical analysis and charting tips. </i></p>
+<p> <i>Crypto tracker app displaying top 20 ranking coins (marketcap) with live pricing via Coingecko API. More features to be added including technical analysis and charting tips. </i></p>
 <!--Project End>
 <br>
 
