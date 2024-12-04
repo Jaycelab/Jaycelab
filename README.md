@@ -110,6 +110,8 @@ TODO:
 
   ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaycelab&theme=dark&background=000000&hide_border=true)&nbsp;
 
+  [![wakatime](https://wakatime.com/badge/user/7071ed70-81fb-4de8-83eb-973828aa14b2.svg)](https://wakatime.com/@7071ed70-81fb-4de8-83eb-973828aa14b2)
+
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaycelab&layout=donut&theme=dark&background=000000&hide_border=true&langs_count=10)&nbsp;&nbsp;<a href="https://typingstats.com/profile/jaycelab&ref=badge" target="_top">
   <img src="https://data.typeracer.com/misc/badge?user=jaycelab" border="0" width="125" height="250"  />
   </a>  
