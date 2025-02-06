@@ -120,10 +120,14 @@ TODO:
 <br>
 
 <h3 align="center">🥅&nbsp;&nbsp;C U R R E N T&nbsp; P R O J E C T S&nbsp;&nbsp;🥅</h3>
+<!--*********amazon clone**********-->
+<!--*********single grid**********-->
+
+<h3 align="center">🥅&nbsp;&nbsp;P E N D I N G&nbsp; P R O J E C T S&nbsp;&nbsp;🥅</h3>
 
 <br>
 
-<!--*********OPTION #1**********-->
+
 
 <div align="center">
 <table>
