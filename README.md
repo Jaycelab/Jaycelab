@@ -120,10 +120,22 @@ TODO:
 <br>
 
 <h3 align="center">🥅&nbsp;&nbsp;C U R R E N T&nbsp; P R O J E C T S&nbsp;&nbsp;🥅</h3>
-<!--*********amazon clone**********-->
-<!--*********single grid**********-->
+
+
+<div>  
+  <a align="center" href="https://github.com/Jaycelab/Amazon-Clone" title="Amazon Clone" width="75">
+    <img align="center" height="135" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jaycelab&description=test1&repo=Amazon-Clone&theme=dark&icon_color=a91717&background=000000&hide_border=true">
+  </a>
+</div>
+
+
+<br>
+
+
+
 
 <h3 align="center">🥅&nbsp;&nbsp;P E N D I N G&nbsp; P R O J E C T S&nbsp;&nbsp;🥅</h3>
+
 
 <br>
 
